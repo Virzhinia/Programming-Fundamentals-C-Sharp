@@ -1,0 +1,6 @@
+C:\Users\ViV\Desktop\SFU\Objects and Classes\02. Advertisement Message\obj\Debug\02. Advertisement Message.csprojResolveAssemblyReference.cache
+C:\Users\ViV\Desktop\SFU\Objects and Classes\02. Advertisement Message\bin\Debug\_02.Advertisement_Message.exe.config
+C:\Users\ViV\Desktop\SFU\Objects and Classes\02. Advertisement Message\bin\Debug\_02.Advertisement_Message.exe
+C:\Users\ViV\Desktop\SFU\Objects and Classes\02. Advertisement Message\bin\Debug\_02.Advertisement_Message.pdb
+C:\Users\ViV\Desktop\SFU\Objects and Classes\02. Advertisement Message\obj\Debug\_02.Advertisement_Message.exe
+C:\Users\ViV\Desktop\SFU\Objects and Classes\02. Advertisement Message\obj\Debug\_02.Advertisement_Message.pdb

@@ -1,0 +1,6 @@
+C:\Users\ViV\Documents\Visual Studio 2017\Projects\Strings and Regex\06. Match Phone Number\bin\Debug\_06.Match_Phone_Number.exe.config
+C:\Users\ViV\Documents\Visual Studio 2017\Projects\Strings and Regex\06. Match Phone Number\bin\Debug\_06.Match_Phone_Number.exe
+C:\Users\ViV\Documents\Visual Studio 2017\Projects\Strings and Regex\06. Match Phone Number\bin\Debug\_06.Match_Phone_Number.pdb
+C:\Users\ViV\Documents\Visual Studio 2017\Projects\Strings and Regex\06. Match Phone Number\obj\Debug\06. Match Phone Number.csprojResolveAssemblyReference.cache
+C:\Users\ViV\Documents\Visual Studio 2017\Projects\Strings and Regex\06. Match Phone Number\obj\Debug\_06.Match_Phone_Number.exe
+C:\Users\ViV\Documents\Visual Studio 2017\Projects\Strings and Regex\06. Match Phone Number\obj\Debug\_06.Match_Phone_Number.pdb

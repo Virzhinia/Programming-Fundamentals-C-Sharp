@@ -1,0 +1,6 @@
+c:\users\viv\documents\visual studio 2017\Projects\Dictionaries and LINQ\Dictionaries and LINQ\bin\Debug\Dictionaries and LINQ.exe.config
+c:\users\viv\documents\visual studio 2017\Projects\Dictionaries and LINQ\Dictionaries and LINQ\bin\Debug\Dictionaries and LINQ.exe
+c:\users\viv\documents\visual studio 2017\Projects\Dictionaries and LINQ\Dictionaries and LINQ\bin\Debug\Dictionaries and LINQ.pdb
+c:\users\viv\documents\visual studio 2017\Projects\Dictionaries and LINQ\Dictionaries and LINQ\obj\Debug\01. Odd Occurences.csprojResolveAssemblyReference.cache
+c:\users\viv\documents\visual studio 2017\Projects\Dictionaries and LINQ\Dictionaries and LINQ\obj\Debug\Dictionaries and LINQ.exe
+c:\users\viv\documents\visual studio 2017\Projects\Dictionaries and LINQ\Dictionaries and LINQ\obj\Debug\Dictionaries and LINQ.pdb

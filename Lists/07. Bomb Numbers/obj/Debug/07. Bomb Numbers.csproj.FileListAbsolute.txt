@@ -1,0 +1,6 @@
+C:\Users\ViV\Desktop\SFU\Lists\07. Bomb Numbers\bin\Debug\_07.Bomb_Numbers.exe.config
+C:\Users\ViV\Desktop\SFU\Lists\07. Bomb Numbers\bin\Debug\_07.Bomb_Numbers.exe
+C:\Users\ViV\Desktop\SFU\Lists\07. Bomb Numbers\bin\Debug\_07.Bomb_Numbers.pdb
+C:\Users\ViV\Desktop\SFU\Lists\07. Bomb Numbers\obj\Debug\07. Bomb Numbers.csprojResolveAssemblyReference.cache
+C:\Users\ViV\Desktop\SFU\Lists\07. Bomb Numbers\obj\Debug\_07.Bomb_Numbers.exe
+C:\Users\ViV\Desktop\SFU\Lists\07. Bomb Numbers\obj\Debug\_07.Bomb_Numbers.pdb

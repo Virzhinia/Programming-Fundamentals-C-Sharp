@@ -1,0 +1,6 @@
+c:\users\viv\documents\visual studio 2017\Projects\Exams\Exams\bin\Debug\Exams.exe.config
+c:\users\viv\documents\visual studio 2017\Projects\Exams\Exams\bin\Debug\Exams.exe
+c:\users\viv\documents\visual studio 2017\Projects\Exams\Exams\bin\Debug\Exams.pdb
+c:\users\viv\documents\visual studio 2017\Projects\Exams\Exams\obj\Debug\01. Resurrection.csprojResolveAssemblyReference.cache
+c:\users\viv\documents\visual studio 2017\Projects\Exams\Exams\obj\Debug\Exams.exe
+c:\users\viv\documents\visual studio 2017\Projects\Exams\Exams\obj\Debug\Exams.pdb

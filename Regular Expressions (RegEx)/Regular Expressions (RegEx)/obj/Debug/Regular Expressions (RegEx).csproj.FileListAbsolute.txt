@@ -1,0 +1,6 @@
+C:\Users\ViV\Desktop\SFU\Regular Expressions (RegEx)\Regular Expressions (RegEx)\bin\Debug\Regular Expressions (RegEx).exe.config
+C:\Users\ViV\Desktop\SFU\Regular Expressions (RegEx)\Regular Expressions (RegEx)\bin\Debug\Regular Expressions (RegEx).exe
+C:\Users\ViV\Desktop\SFU\Regular Expressions (RegEx)\Regular Expressions (RegEx)\bin\Debug\Regular Expressions (RegEx).pdb
+C:\Users\ViV\Desktop\SFU\Regular Expressions (RegEx)\Regular Expressions (RegEx)\obj\Debug\Regular Expressions (RegEx).csprojResolveAssemblyReference.cache
+C:\Users\ViV\Desktop\SFU\Regular Expressions (RegEx)\Regular Expressions (RegEx)\obj\Debug\Regular Expressions (RegEx).exe
+C:\Users\ViV\Desktop\SFU\Regular Expressions (RegEx)\Regular Expressions (RegEx)\obj\Debug\Regular Expressions (RegEx).pdb

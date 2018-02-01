@@ -1,0 +1,6 @@
+c:\users\viv\documents\visual studio 2017\Projects\01. Trainers\20 August 2017\bin\Debug\20 August 2017.exe.config
+c:\users\viv\documents\visual studio 2017\Projects\01. Trainers\20 August 2017\bin\Debug\20 August 2017.exe
+c:\users\viv\documents\visual studio 2017\Projects\01. Trainers\20 August 2017\bin\Debug\20 August 2017.pdb
+c:\users\viv\documents\visual studio 2017\Projects\01. Trainers\20 August 2017\obj\Debug\20 August 2017.csprojResolveAssemblyReference.cache
+c:\users\viv\documents\visual studio 2017\Projects\01. Trainers\20 August 2017\obj\Debug\20 August 2017.exe
+c:\users\viv\documents\visual studio 2017\Projects\01. Trainers\20 August 2017\obj\Debug\20 August 2017.pdb

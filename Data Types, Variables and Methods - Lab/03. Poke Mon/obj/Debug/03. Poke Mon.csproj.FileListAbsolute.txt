@@ -1,0 +1,6 @@
+c:\users\viv\documents\visual studio 2017\Projects\Data Types, Variables and Methods - Lab\03. Poke Mon\bin\Debug\_03.Poke_Mon.exe.config
+c:\users\viv\documents\visual studio 2017\Projects\Data Types, Variables and Methods - Lab\03. Poke Mon\bin\Debug\_03.Poke_Mon.exe
+c:\users\viv\documents\visual studio 2017\Projects\Data Types, Variables and Methods - Lab\03. Poke Mon\bin\Debug\_03.Poke_Mon.pdb
+c:\users\viv\documents\visual studio 2017\Projects\Data Types, Variables and Methods - Lab\03. Poke Mon\obj\Debug\03. Poke Mon.csprojResolveAssemblyReference.cache
+c:\users\viv\documents\visual studio 2017\Projects\Data Types, Variables and Methods - Lab\03. Poke Mon\obj\Debug\_03.Poke_Mon.exe
+c:\users\viv\documents\visual studio 2017\Projects\Data Types, Variables and Methods - Lab\03. Poke Mon\obj\Debug\_03.Poke_Mon.pdb

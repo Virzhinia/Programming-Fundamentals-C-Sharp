@@ -1,0 +1,5 @@
+c:\users\viv\documents\visual studio 2017\Projects\Data Types, Variables and Methods - Lab\04. Transport\bin\Debug\_04.Transport.exe.config
+c:\users\viv\documents\visual studio 2017\Projects\Data Types, Variables and Methods - Lab\04. Transport\bin\Debug\_04.Transport.exe
+c:\users\viv\documents\visual studio 2017\Projects\Data Types, Variables and Methods - Lab\04. Transport\bin\Debug\_04.Transport.pdb
+c:\users\viv\documents\visual studio 2017\Projects\Data Types, Variables and Methods - Lab\04. Transport\obj\Debug\_04.Transport.exe
+c:\users\viv\documents\visual studio 2017\Projects\Data Types, Variables and Methods - Lab\04. Transport\obj\Debug\_04.Transport.pdb

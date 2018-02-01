@@ -1,0 +1,6 @@
+C:\Users\ViV\documents\visual studio 2017\Projects\Exams\02. SoftUni Karaoke\bin\Debug\_02.SoftUni_Karaoke.exe.config
+C:\Users\ViV\documents\visual studio 2017\Projects\Exams\02. SoftUni Karaoke\bin\Debug\_02.SoftUni_Karaoke.exe
+C:\Users\ViV\documents\visual studio 2017\Projects\Exams\02. SoftUni Karaoke\bin\Debug\_02.SoftUni_Karaoke.pdb
+C:\Users\ViV\documents\visual studio 2017\Projects\Exams\02. SoftUni Karaoke\obj\Debug\02. SoftUni Karaoke.csprojResolveAssemblyReference.cache
+C:\Users\ViV\documents\visual studio 2017\Projects\Exams\02. SoftUni Karaoke\obj\Debug\_02.SoftUni_Karaoke.exe
+C:\Users\ViV\documents\visual studio 2017\Projects\Exams\02. SoftUni Karaoke\obj\Debug\_02.SoftUni_Karaoke.pdb

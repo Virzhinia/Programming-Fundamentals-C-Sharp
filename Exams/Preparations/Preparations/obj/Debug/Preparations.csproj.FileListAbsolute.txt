@@ -1,0 +1,6 @@
+C:\Users\ViV\Desktop\SFU\Preparations\Preparations\bin\Debug\Preparations.exe.config
+C:\Users\ViV\Desktop\SFU\Preparations\Preparations\bin\Debug\Preparations.exe
+C:\Users\ViV\Desktop\SFU\Preparations\Preparations\bin\Debug\Preparations.pdb
+C:\Users\ViV\Desktop\SFU\Preparations\Preparations\obj\Debug\Preparations.csprojResolveAssemblyReference.cache
+C:\Users\ViV\Desktop\SFU\Preparations\Preparations\obj\Debug\Preparations.exe
+C:\Users\ViV\Desktop\SFU\Preparations\Preparations\obj\Debug\Preparations.pdb

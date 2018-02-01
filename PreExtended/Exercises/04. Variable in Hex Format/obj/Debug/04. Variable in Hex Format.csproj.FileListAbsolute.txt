@@ -1,0 +1,5 @@
+C:\Users\ViV\Desktop\SFU\PrereshavaneZadachi\04. Variable in Hex Format\bin\Debug\_04.Variable_in_Hex_Format.exe.config
+C:\Users\ViV\Desktop\SFU\PrereshavaneZadachi\04. Variable in Hex Format\bin\Debug\_04.Variable_in_Hex_Format.exe
+C:\Users\ViV\Desktop\SFU\PrereshavaneZadachi\04. Variable in Hex Format\bin\Debug\_04.Variable_in_Hex_Format.pdb
+C:\Users\ViV\Desktop\SFU\PrereshavaneZadachi\04. Variable in Hex Format\obj\Debug\_04.Variable_in_Hex_Format.exe
+C:\Users\ViV\Desktop\SFU\PrereshavaneZadachi\04. Variable in Hex Format\obj\Debug\_04.Variable_in_Hex_Format.pdb

@@ -1,0 +1,5 @@
+c:\users\viv\documents\visual studio 2017\Projects\Dictionaries and LINQ\04. Sum, Min, Max, Average\bin\Debug\_04.Sum__Min__Max__Average.exe.config
+c:\users\viv\documents\visual studio 2017\Projects\Dictionaries and LINQ\04. Sum, Min, Max, Average\bin\Debug\_04.Sum__Min__Max__Average.exe
+c:\users\viv\documents\visual studio 2017\Projects\Dictionaries and LINQ\04. Sum, Min, Max, Average\bin\Debug\_04.Sum__Min__Max__Average.pdb
+c:\users\viv\documents\visual studio 2017\Projects\Dictionaries and LINQ\04. Sum, Min, Max, Average\obj\Debug\_04.Sum__Min__Max__Average.exe
+c:\users\viv\documents\visual studio 2017\Projects\Dictionaries and LINQ\04. Sum, Min, Max, Average\obj\Debug\_04.Sum__Min__Max__Average.pdb

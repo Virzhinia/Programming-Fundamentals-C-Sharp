@@ -1,0 +1,6 @@
+C:\Users\ViV\Desktop\SFU\Lists\05. Array Manipulator\bin\Debug\_05.Array_Manipulator.exe.config
+C:\Users\ViV\Desktop\SFU\Lists\05. Array Manipulator\bin\Debug\_05.Array_Manipulator.exe
+C:\Users\ViV\Desktop\SFU\Lists\05. Array Manipulator\bin\Debug\_05.Array_Manipulator.pdb
+C:\Users\ViV\Desktop\SFU\Lists\05. Array Manipulator\obj\Debug\05. Array Manipulator.csprojResolveAssemblyReference.cache
+C:\Users\ViV\Desktop\SFU\Lists\05. Array Manipulator\obj\Debug\_05.Array_Manipulator.exe
+C:\Users\ViV\Desktop\SFU\Lists\05. Array Manipulator\obj\Debug\_05.Array_Manipulator.pdb

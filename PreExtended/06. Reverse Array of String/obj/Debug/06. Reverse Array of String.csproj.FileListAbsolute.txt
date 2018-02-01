@@ -1,0 +1,6 @@
+C:\Users\ViV\documents\visual studio 2017\Projects\PreExtended\06. Reverse Array of String\bin\Debug\_06.Reverse_Array_of_String.exe.config
+C:\Users\ViV\documents\visual studio 2017\Projects\PreExtended\06. Reverse Array of String\bin\Debug\_06.Reverse_Array_of_String.exe
+C:\Users\ViV\documents\visual studio 2017\Projects\PreExtended\06. Reverse Array of String\bin\Debug\_06.Reverse_Array_of_String.pdb
+C:\Users\ViV\documents\visual studio 2017\Projects\PreExtended\06. Reverse Array of String\obj\Debug\06. Reverse Array of String.csprojResolveAssemblyReference.cache
+C:\Users\ViV\documents\visual studio 2017\Projects\PreExtended\06. Reverse Array of String\obj\Debug\_06.Reverse_Array_of_String.exe
+C:\Users\ViV\documents\visual studio 2017\Projects\PreExtended\06. Reverse Array of String\obj\Debug\_06.Reverse_Array_of_String.pdb

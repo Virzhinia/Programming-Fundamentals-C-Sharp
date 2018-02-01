@@ -1,0 +1,6 @@
+c:\users\viv\documents\visual studio 2017\Projects\01. Sweet Dessert\Exam Preparation IV\bin\Debug\Exam Preparation IV.exe.config
+c:\users\viv\documents\visual studio 2017\Projects\01. Sweet Dessert\Exam Preparation IV\bin\Debug\Exam Preparation IV.exe
+c:\users\viv\documents\visual studio 2017\Projects\01. Sweet Dessert\Exam Preparation IV\bin\Debug\Exam Preparation IV.pdb
+c:\users\viv\documents\visual studio 2017\Projects\01. Sweet Dessert\Exam Preparation IV\obj\Debug\Exam Preparation IV.csprojResolveAssemblyReference.cache
+c:\users\viv\documents\visual studio 2017\Projects\01. Sweet Dessert\Exam Preparation IV\obj\Debug\Exam Preparation IV.exe
+c:\users\viv\documents\visual studio 2017\Projects\01. Sweet Dessert\Exam Preparation IV\obj\Debug\Exam Preparation IV.pdb

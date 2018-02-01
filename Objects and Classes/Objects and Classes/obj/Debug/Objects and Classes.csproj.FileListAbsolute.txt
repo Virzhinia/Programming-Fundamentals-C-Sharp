@@ -1,0 +1,6 @@
+C:\Users\ViV\Desktop\SFU\Objects and Classes\Objects and Classes\bin\Debug\Objects and Classes.exe.config
+C:\Users\ViV\Desktop\SFU\Objects and Classes\Objects and Classes\bin\Debug\Objects and Classes.exe
+C:\Users\ViV\Desktop\SFU\Objects and Classes\Objects and Classes\bin\Debug\Objects and Classes.pdb
+C:\Users\ViV\Desktop\SFU\Objects and Classes\Objects and Classes\obj\Debug\Objects and Classes.csprojResolveAssemblyReference.cache
+C:\Users\ViV\Desktop\SFU\Objects and Classes\Objects and Classes\obj\Debug\Objects and Classes.exe
+C:\Users\ViV\Desktop\SFU\Objects and Classes\Objects and Classes\obj\Debug\Objects and Classes.pdb

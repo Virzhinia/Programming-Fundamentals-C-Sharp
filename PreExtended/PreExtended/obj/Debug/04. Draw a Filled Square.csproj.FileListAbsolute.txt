@@ -1,0 +1,6 @@
+c:\users\viv\documents\visual studio 2017\Projects\PreExtended\PreExtended\bin\Debug\PreExtended.exe.config
+c:\users\viv\documents\visual studio 2017\Projects\PreExtended\PreExtended\bin\Debug\PreExtended.exe
+c:\users\viv\documents\visual studio 2017\Projects\PreExtended\PreExtended\bin\Debug\PreExtended.pdb
+c:\users\viv\documents\visual studio 2017\Projects\PreExtended\PreExtended\obj\Debug\04. Draw a Filled Square.csprojResolveAssemblyReference.cache
+c:\users\viv\documents\visual studio 2017\Projects\PreExtended\PreExtended\obj\Debug\PreExtended.exe
+c:\users\viv\documents\visual studio 2017\Projects\PreExtended\PreExtended\obj\Debug\PreExtended.pdb

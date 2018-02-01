@@ -1,0 +1,5 @@
+c:\users\viv\documents\visual studio 2017\Projects\Exam 10.12\gsrgh\bin\Debug\gsrgh.exe.config
+c:\users\viv\documents\visual studio 2017\Projects\Exam 10.12\gsrgh\bin\Debug\gsrgh.exe
+c:\users\viv\documents\visual studio 2017\Projects\Exam 10.12\gsrgh\bin\Debug\gsrgh.pdb
+c:\users\viv\documents\visual studio 2017\Projects\Exam 10.12\gsrgh\obj\Debug\gsrgh.exe
+c:\users\viv\documents\visual studio 2017\Projects\Exam 10.12\gsrgh\obj\Debug\gsrgh.pdb

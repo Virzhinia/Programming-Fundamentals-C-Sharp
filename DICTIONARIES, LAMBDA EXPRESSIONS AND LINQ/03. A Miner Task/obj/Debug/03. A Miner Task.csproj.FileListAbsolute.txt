@@ -1,0 +1,6 @@
+C:\Users\ViV\Desktop\SFU\DICTIONARIES, LAMBDA EXPRESSIONS AND LINQ\03. A Miner Task\bin\Debug\_03.A_Miner_Task.exe.config
+C:\Users\ViV\Desktop\SFU\DICTIONARIES, LAMBDA EXPRESSIONS AND LINQ\03. A Miner Task\bin\Debug\_03.A_Miner_Task.exe
+C:\Users\ViV\Desktop\SFU\DICTIONARIES, LAMBDA EXPRESSIONS AND LINQ\03. A Miner Task\bin\Debug\_03.A_Miner_Task.pdb
+C:\Users\ViV\Desktop\SFU\DICTIONARIES, LAMBDA EXPRESSIONS AND LINQ\03. A Miner Task\obj\Debug\_03.A_Miner_Task.exe
+C:\Users\ViV\Desktop\SFU\DICTIONARIES, LAMBDA EXPRESSIONS AND LINQ\03. A Miner Task\obj\Debug\_03.A_Miner_Task.pdb
+C:\Users\ViV\Desktop\SFU\DICTIONARIES, LAMBDA EXPRESSIONS AND LINQ\03. A Miner Task\obj\Debug\03. A Miner Task.csprojResolveAssemblyReference.cache

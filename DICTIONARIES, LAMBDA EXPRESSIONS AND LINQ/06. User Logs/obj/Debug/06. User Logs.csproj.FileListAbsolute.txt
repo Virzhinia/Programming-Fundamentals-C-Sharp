@@ -1,0 +1,6 @@
+C:\Users\ViV\Desktop\SFU\DICTIONARIES, LAMBDA EXPRESSIONS AND LINQ\06. User Logs\bin\Debug\_06.User_Logs.exe.config
+C:\Users\ViV\Desktop\SFU\DICTIONARIES, LAMBDA EXPRESSIONS AND LINQ\06. User Logs\bin\Debug\_06.User_Logs.exe
+C:\Users\ViV\Desktop\SFU\DICTIONARIES, LAMBDA EXPRESSIONS AND LINQ\06. User Logs\bin\Debug\_06.User_Logs.pdb
+C:\Users\ViV\Desktop\SFU\DICTIONARIES, LAMBDA EXPRESSIONS AND LINQ\06. User Logs\obj\Debug\06. User Logs.csprojResolveAssemblyReference.cache
+C:\Users\ViV\Desktop\SFU\DICTIONARIES, LAMBDA EXPRESSIONS AND LINQ\06. User Logs\obj\Debug\_06.User_Logs.exe
+C:\Users\ViV\Desktop\SFU\DICTIONARIES, LAMBDA EXPRESSIONS AND LINQ\06. User Logs\obj\Debug\_06.User_Logs.pdb

@@ -1,0 +1,6 @@
+C:\Users\ViV\Desktop\SFU\Strings and Text Processing - Lab\03. Unicode Characters\bin\Debug\_03.Unicode_Characters.exe.config
+C:\Users\ViV\Desktop\SFU\Strings and Text Processing - Lab\03. Unicode Characters\bin\Debug\_03.Unicode_Characters.exe
+C:\Users\ViV\Desktop\SFU\Strings and Text Processing - Lab\03. Unicode Characters\bin\Debug\_03.Unicode_Characters.pdb
+C:\Users\ViV\Desktop\SFU\Strings and Text Processing - Lab\03. Unicode Characters\obj\Debug\03. Unicode Characters.csprojResolveAssemblyReference.cache
+C:\Users\ViV\Desktop\SFU\Strings and Text Processing - Lab\03. Unicode Characters\obj\Debug\_03.Unicode_Characters.exe
+C:\Users\ViV\Desktop\SFU\Strings and Text Processing - Lab\03. Unicode Characters\obj\Debug\_03.Unicode_Characters.pdb

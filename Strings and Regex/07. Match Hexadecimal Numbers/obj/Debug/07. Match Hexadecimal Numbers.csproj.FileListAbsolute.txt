@@ -1,0 +1,6 @@
+C:\Users\ViV\Documents\Visual Studio 2017\Projects\Strings and Regex\07. Match Hexadecimal Numbers\bin\Debug\_07.Match_Hexadecimal_Numbers.exe.config
+C:\Users\ViV\Documents\Visual Studio 2017\Projects\Strings and Regex\07. Match Hexadecimal Numbers\bin\Debug\_07.Match_Hexadecimal_Numbers.exe
+C:\Users\ViV\Documents\Visual Studio 2017\Projects\Strings and Regex\07. Match Hexadecimal Numbers\bin\Debug\_07.Match_Hexadecimal_Numbers.pdb
+C:\Users\ViV\Documents\Visual Studio 2017\Projects\Strings and Regex\07. Match Hexadecimal Numbers\obj\Debug\07. Match Hexadecimal Numbers.csprojResolveAssemblyReference.cache
+C:\Users\ViV\Documents\Visual Studio 2017\Projects\Strings and Regex\07. Match Hexadecimal Numbers\obj\Debug\_07.Match_Hexadecimal_Numbers.exe
+C:\Users\ViV\Documents\Visual Studio 2017\Projects\Strings and Regex\07. Match Hexadecimal Numbers\obj\Debug\_07.Match_Hexadecimal_Numbers.pdb

@@ -1,0 +1,6 @@
+C:\Users\ViV\Desktop\SFU\Lists\04. Longest Increasing Subsequence\bin\Debug\_04.Longest_Increasing_Subsequence.exe.config
+C:\Users\ViV\Desktop\SFU\Lists\04. Longest Increasing Subsequence\bin\Debug\_04.Longest_Increasing_Subsequence.exe
+C:\Users\ViV\Desktop\SFU\Lists\04. Longest Increasing Subsequence\bin\Debug\_04.Longest_Increasing_Subsequence.pdb
+C:\Users\ViV\Desktop\SFU\Lists\04. Longest Increasing Subsequence\obj\Debug\04. Longest Increasing Subsequence.csprojResolveAssemblyReference.cache
+C:\Users\ViV\Desktop\SFU\Lists\04. Longest Increasing Subsequence\obj\Debug\_04.Longest_Increasing_Subsequence.exe
+C:\Users\ViV\Desktop\SFU\Lists\04. Longest Increasing Subsequence\obj\Debug\_04.Longest_Increasing_Subsequence.pdb

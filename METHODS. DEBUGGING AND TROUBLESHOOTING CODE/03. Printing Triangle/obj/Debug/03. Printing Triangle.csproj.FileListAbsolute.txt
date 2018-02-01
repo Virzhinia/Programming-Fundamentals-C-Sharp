@@ -1,0 +1,6 @@
+C:\Users\ViV\Desktop\SFU\METHODS. DEBUGGING AND TROUBLESHOOTING CODE\03. Printing Triangle\bin\Debug\_03.Printing_Triangle.exe.config
+C:\Users\ViV\Desktop\SFU\METHODS. DEBUGGING AND TROUBLESHOOTING CODE\03. Printing Triangle\bin\Debug\_03.Printing_Triangle.exe
+C:\Users\ViV\Desktop\SFU\METHODS. DEBUGGING AND TROUBLESHOOTING CODE\03. Printing Triangle\bin\Debug\_03.Printing_Triangle.pdb
+C:\Users\ViV\Desktop\SFU\METHODS. DEBUGGING AND TROUBLESHOOTING CODE\03. Printing Triangle\obj\Debug\03. Printing Triangle.csprojResolveAssemblyReference.cache
+C:\Users\ViV\Desktop\SFU\METHODS. DEBUGGING AND TROUBLESHOOTING CODE\03. Printing Triangle\obj\Debug\_03.Printing_Triangle.exe
+C:\Users\ViV\Desktop\SFU\METHODS. DEBUGGING AND TROUBLESHOOTING CODE\03. Printing Triangle\obj\Debug\_03.Printing_Triangle.pdb

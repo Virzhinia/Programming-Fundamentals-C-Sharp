@@ -1,0 +1,5 @@
+C:\Users\ViV\Desktop\SFU\METHODS. DEBUGGING AND TROUBLESHOOTING CODE\05. Temperature Conversion\bin\Debug\_05.Temperature_Conversion.exe.config
+C:\Users\ViV\Desktop\SFU\METHODS. DEBUGGING AND TROUBLESHOOTING CODE\05. Temperature Conversion\bin\Debug\_05.Temperature_Conversion.exe
+C:\Users\ViV\Desktop\SFU\METHODS. DEBUGGING AND TROUBLESHOOTING CODE\05. Temperature Conversion\bin\Debug\_05.Temperature_Conversion.pdb
+C:\Users\ViV\Desktop\SFU\METHODS. DEBUGGING AND TROUBLESHOOTING CODE\05. Temperature Conversion\obj\Debug\_05.Temperature_Conversion.exe
+C:\Users\ViV\Desktop\SFU\METHODS. DEBUGGING AND TROUBLESHOOTING CODE\05. Temperature Conversion\obj\Debug\_05.Temperature_Conversion.pdb

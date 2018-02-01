@@ -1,0 +1,6 @@
+C:\Users\ViV\Desktop\SFU\PrereshavaneZadachi\10. Centuries to Nanoseconds\bin\Debug\_10.Centuries_to_Nanoseconds.exe.config
+C:\Users\ViV\Desktop\SFU\PrereshavaneZadachi\10. Centuries to Nanoseconds\bin\Debug\_10.Centuries_to_Nanoseconds.exe
+C:\Users\ViV\Desktop\SFU\PrereshavaneZadachi\10. Centuries to Nanoseconds\bin\Debug\_10.Centuries_to_Nanoseconds.pdb
+C:\Users\ViV\Desktop\SFU\PrereshavaneZadachi\10. Centuries to Nanoseconds\obj\Debug\10. Centuries to Nanoseconds.csprojResolveAssemblyReference.cache
+C:\Users\ViV\Desktop\SFU\PrereshavaneZadachi\10. Centuries to Nanoseconds\obj\Debug\_10.Centuries_to_Nanoseconds.exe
+C:\Users\ViV\Desktop\SFU\PrereshavaneZadachi\10. Centuries to Nanoseconds\obj\Debug\_10.Centuries_to_Nanoseconds.pdb

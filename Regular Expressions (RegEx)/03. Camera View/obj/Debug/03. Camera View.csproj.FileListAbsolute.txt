@@ -1,0 +1,6 @@
+C:\Users\ViV\Desktop\SFU\Regular Expressions (RegEx)\03. Camera View\bin\Debug\_03.Camera_View.exe.config
+C:\Users\ViV\Desktop\SFU\Regular Expressions (RegEx)\03. Camera View\bin\Debug\_03.Camera_View.exe
+C:\Users\ViV\Desktop\SFU\Regular Expressions (RegEx)\03. Camera View\bin\Debug\_03.Camera_View.pdb
+C:\Users\ViV\Desktop\SFU\Regular Expressions (RegEx)\03. Camera View\obj\Debug\03. Camera View.csprojResolveAssemblyReference.cache
+C:\Users\ViV\Desktop\SFU\Regular Expressions (RegEx)\03. Camera View\obj\Debug\_03.Camera_View.exe
+C:\Users\ViV\Desktop\SFU\Regular Expressions (RegEx)\03. Camera View\obj\Debug\_03.Camera_View.pdb

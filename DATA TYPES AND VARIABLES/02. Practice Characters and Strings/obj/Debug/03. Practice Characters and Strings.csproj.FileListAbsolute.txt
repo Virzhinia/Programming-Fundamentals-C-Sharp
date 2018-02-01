@@ -1,0 +1,5 @@
+C:\Users\ViV\Desktop\SFU\DATA TYPES AND VARIABLES\02. Practice Characters and Strings\bin\Debug\_02.Practice_Characters_and_Strings.exe.config
+C:\Users\ViV\Desktop\SFU\DATA TYPES AND VARIABLES\02. Practice Characters and Strings\bin\Debug\_02.Practice_Characters_and_Strings.exe
+C:\Users\ViV\Desktop\SFU\DATA TYPES AND VARIABLES\02. Practice Characters and Strings\bin\Debug\_02.Practice_Characters_and_Strings.pdb
+C:\Users\ViV\Desktop\SFU\DATA TYPES AND VARIABLES\02. Practice Characters and Strings\obj\Debug\_02.Practice_Characters_and_Strings.exe
+C:\Users\ViV\Desktop\SFU\DATA TYPES AND VARIABLES\02. Practice Characters and Strings\obj\Debug\_02.Practice_Characters_and_Strings.pdb

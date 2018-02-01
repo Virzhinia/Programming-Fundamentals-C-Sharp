@@ -1,0 +1,6 @@
+C:\Users\ViV\Desktop\SFU\Strings and Text Processing - Lab\Strings and Text Processing - Lab\bin\Debug\Strings and Text Processing - Lab.exe.config
+C:\Users\ViV\Desktop\SFU\Strings and Text Processing - Lab\Strings and Text Processing - Lab\bin\Debug\Strings and Text Processing - Lab.exe
+C:\Users\ViV\Desktop\SFU\Strings and Text Processing - Lab\Strings and Text Processing - Lab\bin\Debug\Strings and Text Processing - Lab.pdb
+C:\Users\ViV\Desktop\SFU\Strings and Text Processing - Lab\Strings and Text Processing - Lab\obj\Debug\03. Text Filter.csprojResolveAssemblyReference.cache
+C:\Users\ViV\Desktop\SFU\Strings and Text Processing - Lab\Strings and Text Processing - Lab\obj\Debug\Strings and Text Processing - Lab.exe
+C:\Users\ViV\Desktop\SFU\Strings and Text Processing - Lab\Strings and Text Processing - Lab\obj\Debug\Strings and Text Processing - Lab.pdb

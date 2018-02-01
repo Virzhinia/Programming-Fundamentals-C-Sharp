@@ -1,0 +1,5 @@
+C:\Users\ViV\Desktop\SFU\PrereshavaneZadachi\09. Reversed chars\bin\Debug\_09.Reversed_chars.exe.config
+C:\Users\ViV\Desktop\SFU\PrereshavaneZadachi\09. Reversed chars\bin\Debug\_09.Reversed_chars.exe
+C:\Users\ViV\Desktop\SFU\PrereshavaneZadachi\09. Reversed chars\bin\Debug\_09.Reversed_chars.pdb
+C:\Users\ViV\Desktop\SFU\PrereshavaneZadachi\09. Reversed chars\obj\Debug\_09.Reversed_chars.exe
+C:\Users\ViV\Desktop\SFU\PrereshavaneZadachi\09. Reversed chars\obj\Debug\_09.Reversed_chars.pdb

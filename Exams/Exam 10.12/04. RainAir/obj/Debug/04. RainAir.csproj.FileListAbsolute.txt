@@ -1,0 +1,6 @@
+c:\users\viv\documents\visual studio 2017\Projects\Exam 10.12\04. RainAir\bin\Debug\_04.RainAir.exe.config
+c:\users\viv\documents\visual studio 2017\Projects\Exam 10.12\04. RainAir\bin\Debug\_04.RainAir.exe
+c:\users\viv\documents\visual studio 2017\Projects\Exam 10.12\04. RainAir\bin\Debug\_04.RainAir.pdb
+c:\users\viv\documents\visual studio 2017\Projects\Exam 10.12\04. RainAir\obj\Debug\04. RainAir.csprojResolveAssemblyReference.cache
+c:\users\viv\documents\visual studio 2017\Projects\Exam 10.12\04. RainAir\obj\Debug\_04.RainAir.exe
+c:\users\viv\documents\visual studio 2017\Projects\Exam 10.12\04. RainAir\obj\Debug\_04.RainAir.pdb

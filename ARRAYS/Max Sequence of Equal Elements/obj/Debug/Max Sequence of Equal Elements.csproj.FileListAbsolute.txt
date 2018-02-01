@@ -1,0 +1,6 @@
+C:\Users\ViV\Desktop\SFU\ARRAYS\Max Sequence of Equal Elements\bin\Debug\Max Sequence of Equal Elements.exe.config
+C:\Users\ViV\Desktop\SFU\ARRAYS\Max Sequence of Equal Elements\bin\Debug\Max Sequence of Equal Elements.exe
+C:\Users\ViV\Desktop\SFU\ARRAYS\Max Sequence of Equal Elements\bin\Debug\Max Sequence of Equal Elements.pdb
+C:\Users\ViV\Desktop\SFU\ARRAYS\Max Sequence of Equal Elements\obj\Debug\Max Sequence of Equal Elements.csprojResolveAssemblyReference.cache
+C:\Users\ViV\Desktop\SFU\ARRAYS\Max Sequence of Equal Elements\obj\Debug\Max Sequence of Equal Elements.exe
+C:\Users\ViV\Desktop\SFU\ARRAYS\Max Sequence of Equal Elements\obj\Debug\Max Sequence of Equal Elements.pdb

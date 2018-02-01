@@ -1,0 +1,6 @@
+c:\users\viv\documents\visual studio 2017\Projects\Data Types, Variables and Methods - Lab\Data Types, Variables and Methods - Lab\bin\Debug\Data Types, Variables and Methods - Lab.exe.config
+c:\users\viv\documents\visual studio 2017\Projects\Data Types, Variables and Methods - Lab\Data Types, Variables and Methods - Lab\bin\Debug\Data Types, Variables and Methods - Lab.exe
+c:\users\viv\documents\visual studio 2017\Projects\Data Types, Variables and Methods - Lab\Data Types, Variables and Methods - Lab\bin\Debug\Data Types, Variables and Methods - Lab.pdb
+c:\users\viv\documents\visual studio 2017\Projects\Data Types, Variables and Methods - Lab\Data Types, Variables and Methods - Lab\obj\Debug\01. Integer Types.csprojResolveAssemblyReference.cache
+c:\users\viv\documents\visual studio 2017\Projects\Data Types, Variables and Methods - Lab\Data Types, Variables and Methods - Lab\obj\Debug\Data Types, Variables and Methods - Lab.exe
+c:\users\viv\documents\visual studio 2017\Projects\Data Types, Variables and Methods - Lab\Data Types, Variables and Methods - Lab\obj\Debug\Data Types, Variables and Methods - Lab.pdb

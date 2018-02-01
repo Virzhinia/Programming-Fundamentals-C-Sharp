@@ -1,0 +1,6 @@
+C:\Users\ViV\Desktop\SFU\DATA TYPES AND VARIABLES\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\ViV\Desktop\SFU\DATA TYPES AND VARIABLES\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\ViV\Desktop\SFU\DATA TYPES AND VARIABLES\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\ViV\Desktop\SFU\DATA TYPES AND VARIABLES\ConsoleApp1\obj\Debug\ConsoleApp1.csprojResolveAssemblyReference.cache
+C:\Users\ViV\Desktop\SFU\DATA TYPES AND VARIABLES\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\ViV\Desktop\SFU\DATA TYPES AND VARIABLES\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

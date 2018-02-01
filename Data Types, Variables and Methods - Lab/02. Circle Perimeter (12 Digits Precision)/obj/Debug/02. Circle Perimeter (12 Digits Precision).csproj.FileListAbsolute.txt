@@ -1,0 +1,5 @@
+c:\users\viv\documents\visual studio 2017\Projects\Data Types, Variables and Methods - Lab\02. Circle Perimeter (12 Digits Precision)\bin\Debug\_02.Circle_Perimeter__12_Digits_Precision_.exe.config
+c:\users\viv\documents\visual studio 2017\Projects\Data Types, Variables and Methods - Lab\02. Circle Perimeter (12 Digits Precision)\bin\Debug\_02.Circle_Perimeter__12_Digits_Precision_.exe
+c:\users\viv\documents\visual studio 2017\Projects\Data Types, Variables and Methods - Lab\02. Circle Perimeter (12 Digits Precision)\bin\Debug\_02.Circle_Perimeter__12_Digits_Precision_.pdb
+c:\users\viv\documents\visual studio 2017\Projects\Data Types, Variables and Methods - Lab\02. Circle Perimeter (12 Digits Precision)\obj\Debug\_02.Circle_Perimeter__12_Digits_Precision_.exe
+c:\users\viv\documents\visual studio 2017\Projects\Data Types, Variables and Methods - Lab\02. Circle Perimeter (12 Digits Precision)\obj\Debug\_02.Circle_Perimeter__12_Digits_Precision_.pdb

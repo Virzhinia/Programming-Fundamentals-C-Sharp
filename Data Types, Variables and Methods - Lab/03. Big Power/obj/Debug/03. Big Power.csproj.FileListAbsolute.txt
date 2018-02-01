@@ -1,0 +1,6 @@
+c:\users\viv\documents\visual studio 2017\Projects\Data Types, Variables and Methods - Lab\03. Big Power\bin\Debug\_03.Big_Power.exe.config
+c:\users\viv\documents\visual studio 2017\Projects\Data Types, Variables and Methods - Lab\03. Big Power\bin\Debug\_03.Big_Power.exe
+c:\users\viv\documents\visual studio 2017\Projects\Data Types, Variables and Methods - Lab\03. Big Power\bin\Debug\_03.Big_Power.pdb
+c:\users\viv\documents\visual studio 2017\Projects\Data Types, Variables and Methods - Lab\03. Big Power\obj\Debug\03. Big Power.csprojResolveAssemblyReference.cache
+c:\users\viv\documents\visual studio 2017\Projects\Data Types, Variables and Methods - Lab\03. Big Power\obj\Debug\_03.Big_Power.exe
+c:\users\viv\documents\visual studio 2017\Projects\Data Types, Variables and Methods - Lab\03. Big Power\obj\Debug\_03.Big_Power.pdb

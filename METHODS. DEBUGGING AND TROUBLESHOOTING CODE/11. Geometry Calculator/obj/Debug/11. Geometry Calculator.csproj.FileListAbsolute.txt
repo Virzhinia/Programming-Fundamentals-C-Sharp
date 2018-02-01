@@ -1,0 +1,6 @@
+C:\Users\ViV\Desktop\SFU\METHODS. DEBUGGING AND TROUBLESHOOTING CODE\11. Geometry Calculator\bin\Debug\_11.Geometry_Calculator.exe.config
+C:\Users\ViV\Desktop\SFU\METHODS. DEBUGGING AND TROUBLESHOOTING CODE\11. Geometry Calculator\bin\Debug\_11.Geometry_Calculator.exe
+C:\Users\ViV\Desktop\SFU\METHODS. DEBUGGING AND TROUBLESHOOTING CODE\11. Geometry Calculator\bin\Debug\_11.Geometry_Calculator.pdb
+C:\Users\ViV\Desktop\SFU\METHODS. DEBUGGING AND TROUBLESHOOTING CODE\11. Geometry Calculator\obj\Debug\11. Geometry Calculator.csprojResolveAssemblyReference.cache
+C:\Users\ViV\Desktop\SFU\METHODS. DEBUGGING AND TROUBLESHOOTING CODE\11. Geometry Calculator\obj\Debug\_11.Geometry_Calculator.exe
+C:\Users\ViV\Desktop\SFU\METHODS. DEBUGGING AND TROUBLESHOOTING CODE\11. Geometry Calculator\obj\Debug\_11.Geometry_Calculator.pdb

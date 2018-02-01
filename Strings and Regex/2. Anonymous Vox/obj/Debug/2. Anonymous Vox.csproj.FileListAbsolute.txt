@@ -1,0 +1,6 @@
+C:\Users\ViV\Documents\Visual Studio 2017\Projects\Strings and Regex\2. Anonymous Vox\bin\Debug\_2.Anonymous_Vox.exe.config
+C:\Users\ViV\Documents\Visual Studio 2017\Projects\Strings and Regex\2. Anonymous Vox\bin\Debug\_2.Anonymous_Vox.exe
+C:\Users\ViV\Documents\Visual Studio 2017\Projects\Strings and Regex\2. Anonymous Vox\bin\Debug\_2.Anonymous_Vox.pdb
+C:\Users\ViV\Documents\Visual Studio 2017\Projects\Strings and Regex\2. Anonymous Vox\obj\Debug\2. Anonymous Vox.csprojResolveAssemblyReference.cache
+C:\Users\ViV\Documents\Visual Studio 2017\Projects\Strings and Regex\2. Anonymous Vox\obj\Debug\_2.Anonymous_Vox.exe
+C:\Users\ViV\Documents\Visual Studio 2017\Projects\Strings and Regex\2. Anonymous Vox\obj\Debug\_2.Anonymous_Vox.pdb

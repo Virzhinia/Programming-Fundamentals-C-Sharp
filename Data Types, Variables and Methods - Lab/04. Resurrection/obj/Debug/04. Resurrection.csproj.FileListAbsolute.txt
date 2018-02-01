@@ -1,0 +1,6 @@
+c:\users\viv\documents\visual studio 2017\Projects\Data Types, Variables and Methods - Lab\04. Resurrection\bin\Debug\_04.Resurrection.exe.config
+c:\users\viv\documents\visual studio 2017\Projects\Data Types, Variables and Methods - Lab\04. Resurrection\bin\Debug\_04.Resurrection.exe
+c:\users\viv\documents\visual studio 2017\Projects\Data Types, Variables and Methods - Lab\04. Resurrection\bin\Debug\_04.Resurrection.pdb
+c:\users\viv\documents\visual studio 2017\Projects\Data Types, Variables and Methods - Lab\04. Resurrection\obj\Debug\04. Resurrection.csprojResolveAssemblyReference.cache
+c:\users\viv\documents\visual studio 2017\Projects\Data Types, Variables and Methods - Lab\04. Resurrection\obj\Debug\_04.Resurrection.exe
+c:\users\viv\documents\visual studio 2017\Projects\Data Types, Variables and Methods - Lab\04. Resurrection\obj\Debug\_04.Resurrection.pdb

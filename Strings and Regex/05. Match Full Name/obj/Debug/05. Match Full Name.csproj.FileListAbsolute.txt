@@ -1,0 +1,6 @@
+C:\Users\ViV\Documents\Visual Studio 2017\Projects\Strings and Regex\05. Match Full Name\bin\Debug\_05.Match_Full_Name.exe.config
+C:\Users\ViV\Documents\Visual Studio 2017\Projects\Strings and Regex\05. Match Full Name\bin\Debug\_05.Match_Full_Name.exe
+C:\Users\ViV\Documents\Visual Studio 2017\Projects\Strings and Regex\05. Match Full Name\bin\Debug\_05.Match_Full_Name.pdb
+C:\Users\ViV\Documents\Visual Studio 2017\Projects\Strings and Regex\05. Match Full Name\obj\Debug\05. Match Full Name.csprojResolveAssemblyReference.cache
+C:\Users\ViV\Documents\Visual Studio 2017\Projects\Strings and Regex\05. Match Full Name\obj\Debug\_05.Match_Full_Name.exe
+C:\Users\ViV\Documents\Visual Studio 2017\Projects\Strings and Regex\05. Match Full Name\obj\Debug\_05.Match_Full_Name.pdb

@@ -1,0 +1,6 @@
+C:\Users\ViV\Desktop\SFU\ARRAYS\05. Rounding Numbers\bin\Debug\_05.Rounding_Numbers.exe.config
+C:\Users\ViV\Desktop\SFU\ARRAYS\05. Rounding Numbers\bin\Debug\_05.Rounding_Numbers.exe
+C:\Users\ViV\Desktop\SFU\ARRAYS\05. Rounding Numbers\bin\Debug\_05.Rounding_Numbers.pdb
+C:\Users\ViV\Desktop\SFU\ARRAYS\05. Rounding Numbers\obj\Debug\05. Rounding Numbers.csprojResolveAssemblyReference.cache
+C:\Users\ViV\Desktop\SFU\ARRAYS\05. Rounding Numbers\obj\Debug\_05.Rounding_Numbers.exe
+C:\Users\ViV\Desktop\SFU\ARRAYS\05. Rounding Numbers\obj\Debug\_05.Rounding_Numbers.pdb

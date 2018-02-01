@@ -1,0 +1,5 @@
+C:\Users\ViV\Desktop\SFU\Strings and Text Processing - Lab\01. Reverse String\bin\Debug\_01.Reverse_String.exe.config
+C:\Users\ViV\Desktop\SFU\Strings and Text Processing - Lab\01. Reverse String\bin\Debug\_01.Reverse_String.exe
+C:\Users\ViV\Desktop\SFU\Strings and Text Processing - Lab\01. Reverse String\bin\Debug\_01.Reverse_String.pdb
+C:\Users\ViV\Desktop\SFU\Strings and Text Processing - Lab\01. Reverse String\obj\Debug\_01.Reverse_String.exe
+C:\Users\ViV\Desktop\SFU\Strings and Text Processing - Lab\01. Reverse String\obj\Debug\_01.Reverse_String.pdb

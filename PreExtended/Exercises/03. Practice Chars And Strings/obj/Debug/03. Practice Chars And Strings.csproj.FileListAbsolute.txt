@@ -1,0 +1,5 @@
+C:\Users\ViV\Desktop\SFU\PrereshavaneZadachi\03. Practice Chars And Strings\bin\Debug\_03.Practice_Chars_And_Strings.exe.config
+C:\Users\ViV\Desktop\SFU\PrereshavaneZadachi\03. Practice Chars And Strings\bin\Debug\_03.Practice_Chars_And_Strings.exe
+C:\Users\ViV\Desktop\SFU\PrereshavaneZadachi\03. Practice Chars And Strings\bin\Debug\_03.Practice_Chars_And_Strings.pdb
+C:\Users\ViV\Desktop\SFU\PrereshavaneZadachi\03. Practice Chars And Strings\obj\Debug\_03.Practice_Chars_And_Strings.exe
+C:\Users\ViV\Desktop\SFU\PrereshavaneZadachi\03. Practice Chars And Strings\obj\Debug\_03.Practice_Chars_And_Strings.pdb

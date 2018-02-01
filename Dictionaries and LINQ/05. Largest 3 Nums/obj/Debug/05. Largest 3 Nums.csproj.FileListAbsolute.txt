@@ -1,0 +1,5 @@
+c:\users\viv\documents\visual studio 2017\Projects\Dictionaries and LINQ\05. Largest 3 Nums\bin\Debug\_05.Largest_3_Nums.exe.config
+c:\users\viv\documents\visual studio 2017\Projects\Dictionaries and LINQ\05. Largest 3 Nums\bin\Debug\_05.Largest_3_Nums.exe
+c:\users\viv\documents\visual studio 2017\Projects\Dictionaries and LINQ\05. Largest 3 Nums\bin\Debug\_05.Largest_3_Nums.pdb
+c:\users\viv\documents\visual studio 2017\Projects\Dictionaries and LINQ\05. Largest 3 Nums\obj\Debug\_05.Largest_3_Nums.exe
+c:\users\viv\documents\visual studio 2017\Projects\Dictionaries and LINQ\05. Largest 3 Nums\obj\Debug\_05.Largest_3_Nums.pdb

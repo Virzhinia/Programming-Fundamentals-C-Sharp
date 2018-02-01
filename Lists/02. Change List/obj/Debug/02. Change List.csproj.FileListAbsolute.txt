@@ -1,0 +1,6 @@
+C:\Users\ViV\Desktop\SFU\Lists\02. Change List\bin\Debug\_02.Change_List.exe.config
+C:\Users\ViV\Desktop\SFU\Lists\02. Change List\bin\Debug\_02.Change_List.exe
+C:\Users\ViV\Desktop\SFU\Lists\02. Change List\bin\Debug\_02.Change_List.pdb
+C:\Users\ViV\Desktop\SFU\Lists\02. Change List\obj\Debug\02. Change List.csprojResolveAssemblyReference.cache
+C:\Users\ViV\Desktop\SFU\Lists\02. Change List\obj\Debug\_02.Change_List.exe
+C:\Users\ViV\Desktop\SFU\Lists\02. Change List\obj\Debug\_02.Change_List.pdb

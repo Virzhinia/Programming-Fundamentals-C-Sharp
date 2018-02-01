@@ -1,0 +1,6 @@
+C:\Users\ViV\Desktop\SFU\METHODS. DEBUGGING AND TROUBLESHOOTING CODE\Cube Properties\bin\Debug\Cube Properties.exe.config
+C:\Users\ViV\Desktop\SFU\METHODS. DEBUGGING AND TROUBLESHOOTING CODE\Cube Properties\bin\Debug\Cube Properties.exe
+C:\Users\ViV\Desktop\SFU\METHODS. DEBUGGING AND TROUBLESHOOTING CODE\Cube Properties\bin\Debug\Cube Properties.pdb
+C:\Users\ViV\Desktop\SFU\METHODS. DEBUGGING AND TROUBLESHOOTING CODE\Cube Properties\obj\Debug\10. Cube Properties.csprojResolveAssemblyReference.cache
+C:\Users\ViV\Desktop\SFU\METHODS. DEBUGGING AND TROUBLESHOOTING CODE\Cube Properties\obj\Debug\Cube Properties.exe
+C:\Users\ViV\Desktop\SFU\METHODS. DEBUGGING AND TROUBLESHOOTING CODE\Cube Properties\obj\Debug\Cube Properties.pdb

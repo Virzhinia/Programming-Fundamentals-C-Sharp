@@ -1,0 +1,6 @@
+c:\users\viv\documents\visual studio 2017\Projects\Dictionaries and LINQ\03. Cities by Continent and Country\obj\Debug\03. Cities by Continent and Country.csprojResolveAssemblyReference.cache
+c:\users\viv\documents\visual studio 2017\Projects\Dictionaries and LINQ\03. Cities by Continent and Country\bin\Debug\_03.Cities_by_Continent_and_Country.exe.config
+c:\users\viv\documents\visual studio 2017\Projects\Dictionaries and LINQ\03. Cities by Continent and Country\bin\Debug\_03.Cities_by_Continent_and_Country.exe
+c:\users\viv\documents\visual studio 2017\Projects\Dictionaries and LINQ\03. Cities by Continent and Country\bin\Debug\_03.Cities_by_Continent_and_Country.pdb
+c:\users\viv\documents\visual studio 2017\Projects\Dictionaries and LINQ\03. Cities by Continent and Country\obj\Debug\_03.Cities_by_Continent_and_Country.exe
+c:\users\viv\documents\visual studio 2017\Projects\Dictionaries and LINQ\03. Cities by Continent and Country\obj\Debug\_03.Cities_by_Continent_and_Country.pdb

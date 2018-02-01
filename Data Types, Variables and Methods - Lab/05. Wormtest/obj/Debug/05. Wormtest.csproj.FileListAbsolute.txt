@@ -1,0 +1,5 @@
+c:\users\viv\documents\visual studio 2017\Projects\Data Types, Variables and Methods - Lab\05. Wormtest\bin\Debug\_05.Wormtest.exe.config
+c:\users\viv\documents\visual studio 2017\Projects\Data Types, Variables and Methods - Lab\05. Wormtest\bin\Debug\_05.Wormtest.exe
+c:\users\viv\documents\visual studio 2017\Projects\Data Types, Variables and Methods - Lab\05. Wormtest\bin\Debug\_05.Wormtest.pdb
+c:\users\viv\documents\visual studio 2017\Projects\Data Types, Variables and Methods - Lab\05. Wormtest\obj\Debug\_05.Wormtest.exe
+c:\users\viv\documents\visual studio 2017\Projects\Data Types, Variables and Methods - Lab\05. Wormtest\obj\Debug\_05.Wormtest.pdb

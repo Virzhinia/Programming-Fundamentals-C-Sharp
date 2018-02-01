@@ -1,0 +1,6 @@
+c:\users\viv\documents\visual studio 2017\Projects\Exam Preparation III\04. Files\bin\Debug\_04.Files.exe.config
+c:\users\viv\documents\visual studio 2017\Projects\Exam Preparation III\04. Files\bin\Debug\_04.Files.exe
+c:\users\viv\documents\visual studio 2017\Projects\Exam Preparation III\04. Files\bin\Debug\_04.Files.pdb
+c:\users\viv\documents\visual studio 2017\Projects\Exam Preparation III\04. Files\obj\Debug\04. Files.csprojResolveAssemblyReference.cache
+c:\users\viv\documents\visual studio 2017\Projects\Exam Preparation III\04. Files\obj\Debug\_04.Files.exe
+c:\users\viv\documents\visual studio 2017\Projects\Exam Preparation III\04. Files\obj\Debug\_04.Files.pdb

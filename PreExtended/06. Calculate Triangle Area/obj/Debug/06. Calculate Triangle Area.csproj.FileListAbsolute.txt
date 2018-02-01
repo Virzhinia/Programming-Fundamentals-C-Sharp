@@ -1,0 +1,6 @@
+c:\users\viv\documents\visual studio 2017\Projects\PreExtended\06. Calculate Triangle Area\bin\Debug\_06.Calculate_Triangle_Area.exe.config
+c:\users\viv\documents\visual studio 2017\Projects\PreExtended\06. Calculate Triangle Area\bin\Debug\_06.Calculate_Triangle_Area.exe
+c:\users\viv\documents\visual studio 2017\Projects\PreExtended\06. Calculate Triangle Area\bin\Debug\_06.Calculate_Triangle_Area.pdb
+c:\users\viv\documents\visual studio 2017\Projects\PreExtended\06. Calculate Triangle Area\obj\Debug\06. Calculate Triangle Area.csprojResolveAssemblyReference.cache
+c:\users\viv\documents\visual studio 2017\Projects\PreExtended\06. Calculate Triangle Area\obj\Debug\_06.Calculate_Triangle_Area.exe
+c:\users\viv\documents\visual studio 2017\Projects\PreExtended\06. Calculate Triangle Area\obj\Debug\_06.Calculate_Triangle_Area.pdb

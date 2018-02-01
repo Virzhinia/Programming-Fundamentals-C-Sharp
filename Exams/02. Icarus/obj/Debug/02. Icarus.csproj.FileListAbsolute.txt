@@ -1,0 +1,6 @@
+c:\Users\ViV\documents\visual studio 2017\Projects\Exams\02. Icarus\bin\Debug\_02.Icarus.exe.config
+c:\Users\ViV\documents\visual studio 2017\Projects\Exams\02. Icarus\bin\Debug\_02.Icarus.exe
+c:\Users\ViV\documents\visual studio 2017\Projects\Exams\02. Icarus\bin\Debug\_02.Icarus.pdb
+c:\Users\ViV\documents\visual studio 2017\Projects\Exams\02. Icarus\obj\Debug\02. Icarus.csprojResolveAssemblyReference.cache
+c:\Users\ViV\documents\visual studio 2017\Projects\Exams\02. Icarus\obj\Debug\_02.Icarus.exe
+c:\Users\ViV\documents\visual studio 2017\Projects\Exams\02. Icarus\obj\Debug\_02.Icarus.pdb

@@ -1,0 +1,6 @@
+C:\Users\ViV\Desktop\SFU\PrereshavaneZadachi\08. Employee Data\bin\Debug\_08.Employee_Data.exe.config
+C:\Users\ViV\Desktop\SFU\PrereshavaneZadachi\08. Employee Data\bin\Debug\_08.Employee_Data.exe
+C:\Users\ViV\Desktop\SFU\PrereshavaneZadachi\08. Employee Data\bin\Debug\_08.Employee_Data.pdb
+C:\Users\ViV\Desktop\SFU\PrereshavaneZadachi\08. Employee Data\obj\Debug\08. Employee Data.csprojResolveAssemblyReference.cache
+C:\Users\ViV\Desktop\SFU\PrereshavaneZadachi\08. Employee Data\obj\Debug\_08.Employee_Data.exe
+C:\Users\ViV\Desktop\SFU\PrereshavaneZadachi\08. Employee Data\obj\Debug\_08.Employee_Data.pdb

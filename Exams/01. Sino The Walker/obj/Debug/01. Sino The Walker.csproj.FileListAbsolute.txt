@@ -1,0 +1,6 @@
+C:\Users\ViV\documents\visual studio 2017\Projects\Exams\01. Sino The Walker\bin\Debug\_01.Sino_The_Walker.exe.config
+C:\Users\ViV\documents\visual studio 2017\Projects\Exams\01. Sino The Walker\bin\Debug\_01.Sino_The_Walker.exe
+C:\Users\ViV\documents\visual studio 2017\Projects\Exams\01. Sino The Walker\bin\Debug\_01.Sino_The_Walker.pdb
+C:\Users\ViV\documents\visual studio 2017\Projects\Exams\01. Sino The Walker\obj\Debug\01. Sino The Walker.csprojResolveAssemblyReference.cache
+C:\Users\ViV\documents\visual studio 2017\Projects\Exams\01. Sino The Walker\obj\Debug\_01.Sino_The_Walker.exe
+C:\Users\ViV\documents\visual studio 2017\Projects\Exams\01. Sino The Walker\obj\Debug\_01.Sino_The_Walker.pdb

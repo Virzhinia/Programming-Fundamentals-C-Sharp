@@ -1,0 +1,6 @@
+C:\Users\ViV\Desktop\SFU\METHODS. DEBUGGING AND TROUBLESHOOTING CODE\04. Draw a Filled Square\bin\Debug\_04.Draw_a_Filled_Square.exe.config
+C:\Users\ViV\Desktop\SFU\METHODS. DEBUGGING AND TROUBLESHOOTING CODE\04. Draw a Filled Square\bin\Debug\_04.Draw_a_Filled_Square.exe
+C:\Users\ViV\Desktop\SFU\METHODS. DEBUGGING AND TROUBLESHOOTING CODE\04. Draw a Filled Square\bin\Debug\_04.Draw_a_Filled_Square.pdb
+C:\Users\ViV\Desktop\SFU\METHODS. DEBUGGING AND TROUBLESHOOTING CODE\04. Draw a Filled Square\obj\Debug\04. Draw a Filled Square.csprojResolveAssemblyReference.cache
+C:\Users\ViV\Desktop\SFU\METHODS. DEBUGGING AND TROUBLESHOOTING CODE\04. Draw a Filled Square\obj\Debug\_04.Draw_a_Filled_Square.exe
+C:\Users\ViV\Desktop\SFU\METHODS. DEBUGGING AND TROUBLESHOOTING CODE\04. Draw a Filled Square\obj\Debug\_04.Draw_a_Filled_Square.pdb

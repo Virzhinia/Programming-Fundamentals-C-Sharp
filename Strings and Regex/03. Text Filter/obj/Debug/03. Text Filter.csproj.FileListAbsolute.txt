@@ -1,0 +1,6 @@
+c:\users\viv\documents\visual studio 2017\Projects\Strings and Regex\03. Text Filter\bin\Debug\_03.Text_Filter.exe.config
+c:\users\viv\documents\visual studio 2017\Projects\Strings and Regex\03. Text Filter\bin\Debug\_03.Text_Filter.exe
+c:\users\viv\documents\visual studio 2017\Projects\Strings and Regex\03. Text Filter\bin\Debug\_03.Text_Filter.pdb
+c:\users\viv\documents\visual studio 2017\Projects\Strings and Regex\03. Text Filter\obj\Debug\03. Text Filter.csprojResolveAssemblyReference.cache
+c:\users\viv\documents\visual studio 2017\Projects\Strings and Regex\03. Text Filter\obj\Debug\_03.Text_Filter.exe
+c:\users\viv\documents\visual studio 2017\Projects\Strings and Regex\03. Text Filter\obj\Debug\_03.Text_Filter.pdb

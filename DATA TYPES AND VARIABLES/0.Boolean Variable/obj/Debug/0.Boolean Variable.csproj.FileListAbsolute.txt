@@ -1,0 +1,6 @@
+C:\Users\ViV\Desktop\SFU\DATA TYPES AND VARIABLES\0.Boolean Variable\bin\Debug\0.Boolean Variable.exe.config
+C:\Users\ViV\Desktop\SFU\DATA TYPES AND VARIABLES\0.Boolean Variable\bin\Debug\0.Boolean Variable.exe
+C:\Users\ViV\Desktop\SFU\DATA TYPES AND VARIABLES\0.Boolean Variable\bin\Debug\0.Boolean Variable.pdb
+C:\Users\ViV\Desktop\SFU\DATA TYPES AND VARIABLES\0.Boolean Variable\obj\Debug\0.Boolean Variable.csprojResolveAssemblyReference.cache
+C:\Users\ViV\Desktop\SFU\DATA TYPES AND VARIABLES\0.Boolean Variable\obj\Debug\0.Boolean Variable.exe
+C:\Users\ViV\Desktop\SFU\DATA TYPES AND VARIABLES\0.Boolean Variable\obj\Debug\0.Boolean Variable.pdb

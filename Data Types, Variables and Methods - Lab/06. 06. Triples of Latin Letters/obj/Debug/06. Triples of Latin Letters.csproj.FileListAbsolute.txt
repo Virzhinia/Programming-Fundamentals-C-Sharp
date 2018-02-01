@@ -1,0 +1,5 @@
+c:\users\viv\documents\visual studio 2017\Projects\Data Types, Variables and Methods - Lab\06. 06. Triples of Latin Letters\bin\Debug\_06._06.Triples_of_Latin_Letters.exe.config
+c:\users\viv\documents\visual studio 2017\Projects\Data Types, Variables and Methods - Lab\06. 06. Triples of Latin Letters\bin\Debug\_06._06.Triples_of_Latin_Letters.exe
+c:\users\viv\documents\visual studio 2017\Projects\Data Types, Variables and Methods - Lab\06. 06. Triples of Latin Letters\bin\Debug\_06._06.Triples_of_Latin_Letters.pdb
+c:\users\viv\documents\visual studio 2017\Projects\Data Types, Variables and Methods - Lab\06. 06. Triples of Latin Letters\obj\Debug\_06._06.Triples_of_Latin_Letters.exe
+c:\users\viv\documents\visual studio 2017\Projects\Data Types, Variables and Methods - Lab\06. 06. Triples of Latin Letters\obj\Debug\_06._06.Triples_of_Latin_Letters.pdb

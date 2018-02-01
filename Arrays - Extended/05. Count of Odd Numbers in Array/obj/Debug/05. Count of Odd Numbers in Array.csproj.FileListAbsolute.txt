@@ -1,0 +1,5 @@
+c:\users\viv\documents\visual studio 2017\Projects\Arrays - Extended\05. Count of Odd Numbers in Array\bin\Debug\_05.Count_of_Odd_Numbers_in_Array.exe.config
+c:\users\viv\documents\visual studio 2017\Projects\Arrays - Extended\05. Count of Odd Numbers in Array\bin\Debug\_05.Count_of_Odd_Numbers_in_Array.exe
+c:\users\viv\documents\visual studio 2017\Projects\Arrays - Extended\05. Count of Odd Numbers in Array\bin\Debug\_05.Count_of_Odd_Numbers_in_Array.pdb
+c:\users\viv\documents\visual studio 2017\Projects\Arrays - Extended\05. Count of Odd Numbers in Array\obj\Debug\_05.Count_of_Odd_Numbers_in_Array.exe
+c:\users\viv\documents\visual studio 2017\Projects\Arrays - Extended\05. Count of Odd Numbers in Array\obj\Debug\_05.Count_of_Odd_Numbers_in_Array.pdb

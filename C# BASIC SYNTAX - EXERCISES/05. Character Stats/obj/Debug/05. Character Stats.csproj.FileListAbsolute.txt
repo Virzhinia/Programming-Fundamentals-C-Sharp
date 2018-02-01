@@ -1,0 +1,6 @@
+C:\Users\ViV\Desktop\SFU\ConsoleApp6\05. Character Stats\bin\Debug\_05.Character_Stats.exe.config
+C:\Users\ViV\Desktop\SFU\ConsoleApp6\05. Character Stats\bin\Debug\_05.Character_Stats.exe
+C:\Users\ViV\Desktop\SFU\ConsoleApp6\05. Character Stats\bin\Debug\_05.Character_Stats.pdb
+C:\Users\ViV\Desktop\SFU\ConsoleApp6\05. Character Stats\obj\Debug\05. Character Stats.csprojResolveAssemblyReference.cache
+C:\Users\ViV\Desktop\SFU\ConsoleApp6\05. Character Stats\obj\Debug\_05.Character_Stats.exe
+C:\Users\ViV\Desktop\SFU\ConsoleApp6\05. Character Stats\obj\Debug\_05.Character_Stats.pdb

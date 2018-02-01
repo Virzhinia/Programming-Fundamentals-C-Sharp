@@ -1,0 +1,6 @@
+C:\Users\ViV\Desktop\SFU\ARRAYS\02. Rotate and Sum\bin\Debug\_02.Rotate_and_Sum.exe.config
+C:\Users\ViV\Desktop\SFU\ARRAYS\02. Rotate and Sum\bin\Debug\_02.Rotate_and_Sum.exe
+C:\Users\ViV\Desktop\SFU\ARRAYS\02. Rotate and Sum\bin\Debug\_02.Rotate_and_Sum.pdb
+C:\Users\ViV\Desktop\SFU\ARRAYS\02. Rotate and Sum\obj\Debug\02. Rotate and Sum.csprojResolveAssemblyReference.cache
+C:\Users\ViV\Desktop\SFU\ARRAYS\02. Rotate and Sum\obj\Debug\_02.Rotate_and_Sum.exe
+C:\Users\ViV\Desktop\SFU\ARRAYS\02. Rotate and Sum\obj\Debug\_02.Rotate_and_Sum.pdb

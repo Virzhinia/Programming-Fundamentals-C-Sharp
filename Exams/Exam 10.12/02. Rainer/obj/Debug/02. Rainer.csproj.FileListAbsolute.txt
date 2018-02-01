@@ -1,0 +1,6 @@
+c:\users\viv\documents\visual studio 2017\Projects\Exam 10.12\02. Rainer\bin\Debug\_02.Rainer.exe.config
+c:\users\viv\documents\visual studio 2017\Projects\Exam 10.12\02. Rainer\bin\Debug\_02.Rainer.exe
+c:\users\viv\documents\visual studio 2017\Projects\Exam 10.12\02. Rainer\bin\Debug\_02.Rainer.pdb
+c:\users\viv\documents\visual studio 2017\Projects\Exam 10.12\02. Rainer\obj\Debug\02. Rainer.csprojResolveAssemblyReference.cache
+c:\users\viv\documents\visual studio 2017\Projects\Exam 10.12\02. Rainer\obj\Debug\_02.Rainer.exe
+c:\users\viv\documents\visual studio 2017\Projects\Exam 10.12\02. Rainer\obj\Debug\_02.Rainer.pdb

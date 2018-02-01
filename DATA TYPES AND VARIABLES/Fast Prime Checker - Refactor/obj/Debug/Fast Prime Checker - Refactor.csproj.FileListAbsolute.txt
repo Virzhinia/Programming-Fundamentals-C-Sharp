@@ -1,0 +1,5 @@
+C:\Users\ViV\Desktop\SFU\DATA TYPES AND VARIABLES\Fast Prime Checker - Refactor\bin\Debug\Fast Prime Checker - Refactor.exe.config
+C:\Users\ViV\Desktop\SFU\DATA TYPES AND VARIABLES\Fast Prime Checker - Refactor\bin\Debug\Fast Prime Checker - Refactor.exe
+C:\Users\ViV\Desktop\SFU\DATA TYPES AND VARIABLES\Fast Prime Checker - Refactor\bin\Debug\Fast Prime Checker - Refactor.pdb
+C:\Users\ViV\Desktop\SFU\DATA TYPES AND VARIABLES\Fast Prime Checker - Refactor\obj\Debug\Fast Prime Checker - Refactor.exe
+C:\Users\ViV\Desktop\SFU\DATA TYPES AND VARIABLES\Fast Prime Checker - Refactor\obj\Debug\Fast Prime Checker - Refactor.pdb
