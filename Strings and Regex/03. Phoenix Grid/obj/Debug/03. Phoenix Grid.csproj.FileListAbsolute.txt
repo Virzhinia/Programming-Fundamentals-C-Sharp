@@ -1,6 +1,0 @@
-C:\Users\ViV\Documents\Visual Studio 2017\Projects\Strings and Regex\03. Phoenix Grid\bin\Debug\_03.Phoenix_Grid.exe.config
-C:\Users\ViV\Documents\Visual Studio 2017\Projects\Strings and Regex\03. Phoenix Grid\bin\Debug\_03.Phoenix_Grid.exe
-C:\Users\ViV\Documents\Visual Studio 2017\Projects\Strings and Regex\03. Phoenix Grid\bin\Debug\_03.Phoenix_Grid.pdb
-C:\Users\ViV\Documents\Visual Studio 2017\Projects\Strings and Regex\03. Phoenix Grid\obj\Debug\03. Phoenix Grid.csprojResolveAssemblyReference.cache
-C:\Users\ViV\Documents\Visual Studio 2017\Projects\Strings and Regex\03. Phoenix Grid\obj\Debug\_03.Phoenix_Grid.exe
-C:\Users\ViV\Documents\Visual Studio 2017\Projects\Strings and Regex\03. Phoenix Grid\obj\Debug\_03.Phoenix_Grid.pdb

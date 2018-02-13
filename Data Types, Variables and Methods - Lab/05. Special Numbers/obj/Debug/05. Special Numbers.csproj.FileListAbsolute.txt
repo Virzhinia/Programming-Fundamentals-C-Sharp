@@ -1,6 +1,0 @@
-c:\users\viv\documents\visual studio 2017\Projects\Data Types, Variables and Methods - Lab\05. Special Numbers\bin\Debug\_05.Special_Numbers.exe.config
-c:\users\viv\documents\visual studio 2017\Projects\Data Types, Variables and Methods - Lab\05. Special Numbers\bin\Debug\_05.Special_Numbers.exe
-c:\users\viv\documents\visual studio 2017\Projects\Data Types, Variables and Methods - Lab\05. Special Numbers\bin\Debug\_05.Special_Numbers.pdb
-c:\users\viv\documents\visual studio 2017\Projects\Data Types, Variables and Methods - Lab\05. Special Numbers\obj\Debug\05. Special Numbers.csprojResolveAssemblyReference.cache
-c:\users\viv\documents\visual studio 2017\Projects\Data Types, Variables and Methods - Lab\05. Special Numbers\obj\Debug\_05.Special_Numbers.exe
-c:\users\viv\documents\visual studio 2017\Projects\Data Types, Variables and Methods - Lab\05. Special Numbers\obj\Debug\_05.Special_Numbers.pdb

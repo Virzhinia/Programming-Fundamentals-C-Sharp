@@ -1,6 +1,0 @@
-c:\users\viv\documents\visual studio 2017\Projects\Strings and Regex\Strings and Regex\bin\Debug\Strings and Regex.exe.config
-c:\users\viv\documents\visual studio 2017\Projects\Strings and Regex\Strings and Regex\bin\Debug\Strings and Regex.exe
-c:\users\viv\documents\visual studio 2017\Projects\Strings and Regex\Strings and Regex\bin\Debug\Strings and Regex.pdb
-c:\users\viv\documents\visual studio 2017\Projects\Strings and Regex\Strings and Regex\obj\Debug\Strings and Regex.csprojResolveAssemblyReference.cache
-c:\users\viv\documents\visual studio 2017\Projects\Strings and Regex\Strings and Regex\obj\Debug\Strings and Regex.exe
-c:\users\viv\documents\visual studio 2017\Projects\Strings and Regex\Strings and Regex\obj\Debug\Strings and Regex.pdb

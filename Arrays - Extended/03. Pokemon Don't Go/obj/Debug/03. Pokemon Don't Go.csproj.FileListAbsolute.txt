@@ -1,6 +1,0 @@
-C:\Users\ViV\documents\visual studio 2017\Projects\Arrays - Extended\03. Pokemon Don't Go\bin\Debug\_03.Pokemon_Don_t_Go.exe.config
-C:\Users\ViV\documents\visual studio 2017\Projects\Arrays - Extended\03. Pokemon Don't Go\bin\Debug\_03.Pokemon_Don_t_Go.exe
-C:\Users\ViV\documents\visual studio 2017\Projects\Arrays - Extended\03. Pokemon Don't Go\bin\Debug\_03.Pokemon_Don_t_Go.pdb
-C:\Users\ViV\documents\visual studio 2017\Projects\Arrays - Extended\03. Pokemon Don't Go\obj\Debug\03. Pokemon Don't Go.csprojResolveAssemblyReference.cache
-C:\Users\ViV\documents\visual studio 2017\Projects\Arrays - Extended\03. Pokemon Don't Go\obj\Debug\_03.Pokemon_Don_t_Go.exe
-C:\Users\ViV\documents\visual studio 2017\Projects\Arrays - Extended\03. Pokemon Don't Go\obj\Debug\_03.Pokemon_Don_t_Go.pdb

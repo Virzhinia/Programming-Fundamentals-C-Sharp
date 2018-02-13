@@ -1,6 +1,0 @@
-C:\Users\ViV\documents\visual studio 2017\Projects\Exams\02. Ladybugs\obj\Debug\02. Ladybugs.csprojResolveAssemblyReference.cache
-C:\Users\ViV\documents\visual studio 2017\Projects\Exams\02. Ladybugs\bin\Debug\_02.Ladybugs.exe.config
-C:\Users\ViV\documents\visual studio 2017\Projects\Exams\02. Ladybugs\bin\Debug\_02.Ladybugs.exe
-C:\Users\ViV\documents\visual studio 2017\Projects\Exams\02. Ladybugs\bin\Debug\_02.Ladybugs.pdb
-C:\Users\ViV\documents\visual studio 2017\Projects\Exams\02. Ladybugs\obj\Debug\_02.Ladybugs.exe
-C:\Users\ViV\documents\visual studio 2017\Projects\Exams\02. Ladybugs\obj\Debug\_02.Ladybugs.pdb

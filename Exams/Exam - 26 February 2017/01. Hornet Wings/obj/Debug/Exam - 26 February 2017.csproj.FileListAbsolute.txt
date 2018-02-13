@@ -1,6 +1,0 @@
-c:\users\viv\documents\visual studio 2017\Projects\Exam - 26 February 2017\Exam - 26 February 2017\bin\Debug\Exam - 26 February 2017.exe.config
-c:\users\viv\documents\visual studio 2017\Projects\Exam - 26 February 2017\Exam - 26 February 2017\bin\Debug\Exam - 26 February 2017.exe
-c:\users\viv\documents\visual studio 2017\Projects\Exam - 26 February 2017\Exam - 26 February 2017\bin\Debug\Exam - 26 February 2017.pdb
-c:\users\viv\documents\visual studio 2017\Projects\Exam - 26 February 2017\Exam - 26 February 2017\obj\Debug\Exam - 26 February 2017.csprojResolveAssemblyReference.cache
-c:\users\viv\documents\visual studio 2017\Projects\Exam - 26 February 2017\Exam - 26 February 2017\obj\Debug\Exam - 26 February 2017.exe
-c:\users\viv\documents\visual studio 2017\Projects\Exam - 26 February 2017\Exam - 26 February 2017\obj\Debug\Exam - 26 February 2017.pdb

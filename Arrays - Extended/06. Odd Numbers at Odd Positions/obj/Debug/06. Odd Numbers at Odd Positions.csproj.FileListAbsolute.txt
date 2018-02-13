@@ -1,6 +1,0 @@
-c:\users\viv\documents\visual studio 2017\Projects\Arrays - Extended\06. Odd Numbers at Odd Positions\bin\Debug\_06.Odd_Numbers_at_Odd_Positions.exe.config
-c:\users\viv\documents\visual studio 2017\Projects\Arrays - Extended\06. Odd Numbers at Odd Positions\bin\Debug\_06.Odd_Numbers_at_Odd_Positions.exe
-c:\users\viv\documents\visual studio 2017\Projects\Arrays - Extended\06. Odd Numbers at Odd Positions\bin\Debug\_06.Odd_Numbers_at_Odd_Positions.pdb
-c:\users\viv\documents\visual studio 2017\Projects\Arrays - Extended\06. Odd Numbers at Odd Positions\obj\Debug\06. Odd Numbers at Odd Positions.csprojResolveAssemblyReference.cache
-c:\users\viv\documents\visual studio 2017\Projects\Arrays - Extended\06. Odd Numbers at Odd Positions\obj\Debug\_06.Odd_Numbers_at_Odd_Positions.exe
-c:\users\viv\documents\visual studio 2017\Projects\Arrays - Extended\06. Odd Numbers at Odd Positions\obj\Debug\_06.Odd_Numbers_at_Odd_Positions.pdb

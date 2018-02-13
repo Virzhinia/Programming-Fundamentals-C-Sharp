@@ -1,6 +1,0 @@
-C:\Users\ViV\Desktop\SFU\DATA TYPES AND VARIABLES\04. Variable in Hexadecimal Format\bin\Debug\_04.Variable_in_Hexadecimal_Format.exe.config
-C:\Users\ViV\Desktop\SFU\DATA TYPES AND VARIABLES\04. Variable in Hexadecimal Format\bin\Debug\_04.Variable_in_Hexadecimal_Format.exe
-C:\Users\ViV\Desktop\SFU\DATA TYPES AND VARIABLES\04. Variable in Hexadecimal Format\bin\Debug\_04.Variable_in_Hexadecimal_Format.pdb
-C:\Users\ViV\Desktop\SFU\DATA TYPES AND VARIABLES\04. Variable in Hexadecimal Format\obj\Debug\04. Variable in Hexadecimal Format.csprojResolveAssemblyReference.cache
-C:\Users\ViV\Desktop\SFU\DATA TYPES AND VARIABLES\04. Variable in Hexadecimal Format\obj\Debug\_04.Variable_in_Hexadecimal_Format.exe
-C:\Users\ViV\Desktop\SFU\DATA TYPES AND VARIABLES\04. Variable in Hexadecimal Format\obj\Debug\_04.Variable_in_Hexadecimal_Format.pdb

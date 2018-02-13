@@ -1,6 +1,0 @@
-C:\Users\ViV\Desktop\SFU\DATA TYPES AND VARIABLES\19. Thea The Photographer\bin\Debug\_19.Thea_The_Photographer.exe.config
-C:\Users\ViV\Desktop\SFU\DATA TYPES AND VARIABLES\19. Thea The Photographer\bin\Debug\_19.Thea_The_Photographer.exe
-C:\Users\ViV\Desktop\SFU\DATA TYPES AND VARIABLES\19. Thea The Photographer\bin\Debug\_19.Thea_The_Photographer.pdb
-C:\Users\ViV\Desktop\SFU\DATA TYPES AND VARIABLES\19. Thea The Photographer\obj\Debug\19. Thea The Photographer.csprojResolveAssemblyReference.cache
-C:\Users\ViV\Desktop\SFU\DATA TYPES AND VARIABLES\19. Thea The Photographer\obj\Debug\_19.Thea_The_Photographer.exe
-C:\Users\ViV\Desktop\SFU\DATA TYPES AND VARIABLES\19. Thea The Photographer\obj\Debug\_19.Thea_The_Photographer.pdb

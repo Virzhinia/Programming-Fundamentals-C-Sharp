@@ -1,5 +1,0 @@
-C:\Users\ViV\Desktop\SFU\METHODS. DEBUGGING AND TROUBLESHOOTING CODE\02. Sign of Integer Number\bin\Debug\_02.Sign_of_Integer_Number.exe.config
-C:\Users\ViV\Desktop\SFU\METHODS. DEBUGGING AND TROUBLESHOOTING CODE\02. Sign of Integer Number\bin\Debug\_02.Sign_of_Integer_Number.exe
-C:\Users\ViV\Desktop\SFU\METHODS. DEBUGGING AND TROUBLESHOOTING CODE\02. Sign of Integer Number\bin\Debug\_02.Sign_of_Integer_Number.pdb
-C:\Users\ViV\Desktop\SFU\METHODS. DEBUGGING AND TROUBLESHOOTING CODE\02. Sign of Integer Number\obj\Debug\_02.Sign_of_Integer_Number.exe
-C:\Users\ViV\Desktop\SFU\METHODS. DEBUGGING AND TROUBLESHOOTING CODE\02. Sign of Integer Number\obj\Debug\_02.Sign_of_Integer_Number.pdb

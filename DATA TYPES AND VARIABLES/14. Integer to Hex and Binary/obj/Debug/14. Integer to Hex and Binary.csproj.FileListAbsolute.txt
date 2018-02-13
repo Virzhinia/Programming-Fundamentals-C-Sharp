@@ -1,5 +1,0 @@
-C:\Users\ViV\Desktop\SFU\DATA TYPES AND VARIABLES\14. Integer to Hex and Binary\bin\Debug\_14.Integer_to_Hex_and_Binary.exe.config
-C:\Users\ViV\Desktop\SFU\DATA TYPES AND VARIABLES\14. Integer to Hex and Binary\bin\Debug\_14.Integer_to_Hex_and_Binary.exe
-C:\Users\ViV\Desktop\SFU\DATA TYPES AND VARIABLES\14. Integer to Hex and Binary\bin\Debug\_14.Integer_to_Hex_and_Binary.pdb
-C:\Users\ViV\Desktop\SFU\DATA TYPES AND VARIABLES\14. Integer to Hex and Binary\obj\Debug\_14.Integer_to_Hex_and_Binary.exe
-C:\Users\ViV\Desktop\SFU\DATA TYPES AND VARIABLES\14. Integer to Hex and Binary\obj\Debug\_14.Integer_to_Hex_and_Binary.pdb

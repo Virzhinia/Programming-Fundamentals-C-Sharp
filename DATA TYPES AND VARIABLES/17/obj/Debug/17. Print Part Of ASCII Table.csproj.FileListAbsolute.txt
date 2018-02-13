@@ -1,6 +1,0 @@
-C:\Users\ViV\Desktop\SFU\DATA TYPES AND VARIABLES\17\bin\Debug\17.exe.config
-C:\Users\ViV\Desktop\SFU\DATA TYPES AND VARIABLES\17\bin\Debug\17.exe
-C:\Users\ViV\Desktop\SFU\DATA TYPES AND VARIABLES\17\bin\Debug\17.pdb
-C:\Users\ViV\Desktop\SFU\DATA TYPES AND VARIABLES\17\obj\Debug\17. Print Part Of ASCII Table.csprojResolveAssemblyReference.cache
-C:\Users\ViV\Desktop\SFU\DATA TYPES AND VARIABLES\17\obj\Debug\17.exe
-C:\Users\ViV\Desktop\SFU\DATA TYPES AND VARIABLES\17\obj\Debug\17.pdb

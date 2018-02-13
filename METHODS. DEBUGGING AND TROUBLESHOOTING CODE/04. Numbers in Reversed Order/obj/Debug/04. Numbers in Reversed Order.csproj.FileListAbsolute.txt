@@ -1,5 +1,0 @@
-C:\Users\ViV\Desktop\SFU\METHODS. DEBUGGING AND TROUBLESHOOTING CODE\04. Numbers in Reversed Order\bin\Debug\_04.Numbers_in_Reversed_Order.exe.config
-C:\Users\ViV\Desktop\SFU\METHODS. DEBUGGING AND TROUBLESHOOTING CODE\04. Numbers in Reversed Order\bin\Debug\_04.Numbers_in_Reversed_Order.exe
-C:\Users\ViV\Desktop\SFU\METHODS. DEBUGGING AND TROUBLESHOOTING CODE\04. Numbers in Reversed Order\bin\Debug\_04.Numbers_in_Reversed_Order.pdb
-C:\Users\ViV\Desktop\SFU\METHODS. DEBUGGING AND TROUBLESHOOTING CODE\04. Numbers in Reversed Order\obj\Debug\_04.Numbers_in_Reversed_Order.exe
-C:\Users\ViV\Desktop\SFU\METHODS. DEBUGGING AND TROUBLESHOOTING CODE\04. Numbers in Reversed Order\obj\Debug\_04.Numbers_in_Reversed_Order.pdb

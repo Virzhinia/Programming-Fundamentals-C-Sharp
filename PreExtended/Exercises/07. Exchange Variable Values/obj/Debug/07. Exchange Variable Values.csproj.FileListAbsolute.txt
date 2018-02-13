@@ -1,5 +1,0 @@
-C:\Users\ViV\Desktop\SFU\PrereshavaneZadachi\07. Exchange Variable Values\bin\Debug\_07.Exchange_Variable_Values.exe.config
-C:\Users\ViV\Desktop\SFU\PrereshavaneZadachi\07. Exchange Variable Values\bin\Debug\_07.Exchange_Variable_Values.exe
-C:\Users\ViV\Desktop\SFU\PrereshavaneZadachi\07. Exchange Variable Values\bin\Debug\_07.Exchange_Variable_Values.pdb
-C:\Users\ViV\Desktop\SFU\PrereshavaneZadachi\07. Exchange Variable Values\obj\Debug\_07.Exchange_Variable_Values.exe
-C:\Users\ViV\Desktop\SFU\PrereshavaneZadachi\07. Exchange Variable Values\obj\Debug\_07.Exchange_Variable_Values.pdb

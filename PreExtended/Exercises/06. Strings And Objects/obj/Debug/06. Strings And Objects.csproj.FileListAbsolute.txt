@@ -1,5 +1,0 @@
-C:\Users\ViV\Desktop\SFU\PrereshavaneZadachi\06. Strings And Objects\bin\Debug\_06.Strings_And_Objects.exe.config
-C:\Users\ViV\Desktop\SFU\PrereshavaneZadachi\06. Strings And Objects\bin\Debug\_06.Strings_And_Objects.exe
-C:\Users\ViV\Desktop\SFU\PrereshavaneZadachi\06. Strings And Objects\bin\Debug\_06.Strings_And_Objects.pdb
-C:\Users\ViV\Desktop\SFU\PrereshavaneZadachi\06. Strings And Objects\obj\Debug\_06.Strings_And_Objects.exe
-C:\Users\ViV\Desktop\SFU\PrereshavaneZadachi\06. Strings And Objects\obj\Debug\_06.Strings_And_Objects.pdb

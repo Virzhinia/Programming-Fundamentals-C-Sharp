@@ -1,6 +1,0 @@
-c:\users\viv\documents\visual studio 2017\Projects\Exam 10.12\03. Raincast\bin\Debug\_03.Raincast.exe.config
-c:\users\viv\documents\visual studio 2017\Projects\Exam 10.12\03. Raincast\bin\Debug\_03.Raincast.exe
-c:\users\viv\documents\visual studio 2017\Projects\Exam 10.12\03. Raincast\bin\Debug\_03.Raincast.pdb
-c:\users\viv\documents\visual studio 2017\Projects\Exam 10.12\03. Raincast\obj\Debug\03. Raincast.csprojResolveAssemblyReference.cache
-c:\users\viv\documents\visual studio 2017\Projects\Exam 10.12\03. Raincast\obj\Debug\_03.Raincast.exe
-c:\users\viv\documents\visual studio 2017\Projects\Exam 10.12\03. Raincast\obj\Debug\_03.Raincast.pdb

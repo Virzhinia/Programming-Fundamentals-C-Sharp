@@ -1,6 +1,0 @@
-c:\users\viv\documents\visual studio 2017\Projects\ConsoleApp1\regex\bin\Debug\regex.exe.config
-c:\users\viv\documents\visual studio 2017\Projects\ConsoleApp1\regex\bin\Debug\regex.exe
-c:\users\viv\documents\visual studio 2017\Projects\ConsoleApp1\regex\bin\Debug\regex.pdb
-c:\users\viv\documents\visual studio 2017\Projects\ConsoleApp1\regex\obj\Debug\regex.csprojResolveAssemblyReference.cache
-c:\users\viv\documents\visual studio 2017\Projects\ConsoleApp1\regex\obj\Debug\regex.exe
-c:\users\viv\documents\visual studio 2017\Projects\ConsoleApp1\regex\obj\Debug\regex.pdb

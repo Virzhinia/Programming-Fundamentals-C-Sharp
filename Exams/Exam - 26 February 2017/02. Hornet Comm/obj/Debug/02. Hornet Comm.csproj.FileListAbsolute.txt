@@ -1,6 +1,0 @@
-c:\users\viv\documents\visual studio 2017\Projects\Exam - 26 February 2017\02. Hornet Comm\obj\Debug\02. Hornet Comm.csprojResolveAssemblyReference.cache
-c:\users\viv\documents\visual studio 2017\Projects\Exam - 26 February 2017\02. Hornet Comm\obj\Debug\_02.Hornet_Comm.exe
-c:\users\viv\documents\visual studio 2017\Projects\Exam - 26 February 2017\02. Hornet Comm\obj\Debug\_02.Hornet_Comm.pdb
-C:\Users\ViV\Documents\Visual Studio 2017\Projects\Exam - 26 February 2017\02. Hornet Comm\bin\Debug\_02.Hornet_Comm.exe.config
-C:\Users\ViV\Documents\Visual Studio 2017\Projects\Exam - 26 February 2017\02. Hornet Comm\bin\Debug\_02.Hornet_Comm.exe
-C:\Users\ViV\Documents\Visual Studio 2017\Projects\Exam - 26 February 2017\02. Hornet Comm\bin\Debug\_02.Hornet_Comm.pdb

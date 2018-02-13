@@ -1,6 +1,0 @@
-c:\users\viv\documents\visual studio 2017\Projects\ConsoleApp1\03\bin\Debug\03.exe.config
-c:\users\viv\documents\visual studio 2017\Projects\ConsoleApp1\03\bin\Debug\03.exe
-c:\users\viv\documents\visual studio 2017\Projects\ConsoleApp1\03\bin\Debug\03.pdb
-c:\users\viv\documents\visual studio 2017\Projects\ConsoleApp1\03\obj\Debug\03.csprojResolveAssemblyReference.cache
-c:\users\viv\documents\visual studio 2017\Projects\ConsoleApp1\03\obj\Debug\03.exe
-c:\users\viv\documents\visual studio 2017\Projects\ConsoleApp1\03\obj\Debug\03.pdb

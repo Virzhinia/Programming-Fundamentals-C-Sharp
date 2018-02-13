@@ -1,6 +1,0 @@
-C:\Users\ViV\Desktop\SFU\Strings and Text Processing - Lab\06. Sum big numbers\bin\Debug\_06.Sum_big_numbers.exe.config
-C:\Users\ViV\Desktop\SFU\Strings and Text Processing - Lab\06. Sum big numbers\bin\Debug\_06.Sum_big_numbers.exe
-C:\Users\ViV\Desktop\SFU\Strings and Text Processing - Lab\06. Sum big numbers\bin\Debug\_06.Sum_big_numbers.pdb
-C:\Users\ViV\Desktop\SFU\Strings and Text Processing - Lab\06. Sum big numbers\obj\Debug\06. Sum big numbers.csprojResolveAssemblyReference.cache
-C:\Users\ViV\Desktop\SFU\Strings and Text Processing - Lab\06. Sum big numbers\obj\Debug\_06.Sum_big_numbers.exe
-C:\Users\ViV\Desktop\SFU\Strings and Text Processing - Lab\06. Sum big numbers\obj\Debug\_06.Sum_big_numbers.pdb

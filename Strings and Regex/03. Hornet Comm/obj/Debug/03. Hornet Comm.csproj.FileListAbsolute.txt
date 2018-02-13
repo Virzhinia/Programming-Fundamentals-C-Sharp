@@ -1,6 +1,0 @@
-C:\Users\ViV\Documents\Visual Studio 2017\Projects\Strings and Regex\03. Hornet Comm\obj\Debug\03. Hornet Comm.csprojResolveAssemblyReference.cache
-C:\Users\ViV\Documents\Visual Studio 2017\Projects\Strings and Regex\03. Hornet Comm\obj\Debug\_03.Hornet_Comm.exe
-C:\Users\ViV\Documents\Visual Studio 2017\Projects\Strings and Regex\03. Hornet Comm\obj\Debug\_03.Hornet_Comm.pdb
-C:\Users\ViV\Documents\Visual Studio 2017\Projects\Strings and Regex\03. Hornet Comm\bin\Debug\_03.Hornet_Comm.exe.config
-C:\Users\ViV\Documents\Visual Studio 2017\Projects\Strings and Regex\03. Hornet Comm\bin\Debug\_03.Hornet_Comm.exe
-C:\Users\ViV\Documents\Visual Studio 2017\Projects\Strings and Regex\03. Hornet Comm\bin\Debug\_03.Hornet_Comm.pdb

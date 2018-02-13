@@ -1,6 +1,0 @@
-C:\Users\ViV\Documents\Visual Studio 2017\Projects\Data Types, Variables and Methods - Lab\07. Greeting\bin\Debug\_07.Greeting.exe.config
-C:\Users\ViV\Documents\Visual Studio 2017\Projects\Data Types, Variables and Methods - Lab\07. Greeting\bin\Debug\_07.Greeting.exe
-C:\Users\ViV\Documents\Visual Studio 2017\Projects\Data Types, Variables and Methods - Lab\07. Greeting\bin\Debug\_07.Greeting.pdb
-C:\Users\ViV\Documents\Visual Studio 2017\Projects\Data Types, Variables and Methods - Lab\07. Greeting\obj\Debug\07. Greeting.csprojResolveAssemblyReference.cache
-C:\Users\ViV\Documents\Visual Studio 2017\Projects\Data Types, Variables and Methods - Lab\07. Greeting\obj\Debug\_07.Greeting.exe
-C:\Users\ViV\Documents\Visual Studio 2017\Projects\Data Types, Variables and Methods - Lab\07. Greeting\obj\Debug\_07.Greeting.pdb

@@ -1,6 +1,0 @@
-C:\Users\ViV\Desktop\SFU\DATA TYPES AND VARIABLES\12. Rectangle Properties\bin\Debug\_12.Rectangle_Properties.exe.config
-C:\Users\ViV\Desktop\SFU\DATA TYPES AND VARIABLES\12. Rectangle Properties\bin\Debug\_12.Rectangle_Properties.exe
-C:\Users\ViV\Desktop\SFU\DATA TYPES AND VARIABLES\12. Rectangle Properties\bin\Debug\_12.Rectangle_Properties.pdb
-C:\Users\ViV\Desktop\SFU\DATA TYPES AND VARIABLES\12. Rectangle Properties\obj\Debug\_12.Rectangle_Properties.exe
-C:\Users\ViV\Desktop\SFU\DATA TYPES AND VARIABLES\12. Rectangle Properties\obj\Debug\_12.Rectangle_Properties.pdb
-C:\Users\ViV\Desktop\SFU\DATA TYPES AND VARIABLES\12. Rectangle Properties\obj\Debug\12. Rectangle Properties.csprojResolveAssemblyReference.cache

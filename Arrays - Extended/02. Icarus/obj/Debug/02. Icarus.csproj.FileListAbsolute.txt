@@ -1,6 +1,0 @@
-C:\Users\ViV\documents\visual studio 2017\Projects\Arrays - Extended\02. Icarus\bin\Debug\_02.Icarus.exe.config
-C:\Users\ViV\documents\visual studio 2017\Projects\Arrays - Extended\02. Icarus\bin\Debug\_02.Icarus.exe
-C:\Users\ViV\documents\visual studio 2017\Projects\Arrays - Extended\02. Icarus\bin\Debug\_02.Icarus.pdb
-C:\Users\ViV\documents\visual studio 2017\Projects\Arrays - Extended\02. Icarus\obj\Debug\02. Icarus.csprojResolveAssemblyReference.cache
-C:\Users\ViV\documents\visual studio 2017\Projects\Arrays - Extended\02. Icarus\obj\Debug\_02.Icarus.exe
-C:\Users\ViV\documents\visual studio 2017\Projects\Arrays - Extended\02. Icarus\obj\Debug\_02.Icarus.pdb

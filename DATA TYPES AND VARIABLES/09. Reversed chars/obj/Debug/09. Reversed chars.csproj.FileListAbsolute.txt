@@ -1,6 +1,0 @@
-C:\Users\ViV\Desktop\SFU\DATA TYPES AND VARIABLES\09. Reversed chars\bin\Debug\_09.Reversed_chars.exe.config
-C:\Users\ViV\Desktop\SFU\DATA TYPES AND VARIABLES\09. Reversed chars\bin\Debug\_09.Reversed_chars.exe
-C:\Users\ViV\Desktop\SFU\DATA TYPES AND VARIABLES\09. Reversed chars\bin\Debug\_09.Reversed_chars.pdb
-C:\Users\ViV\Desktop\SFU\DATA TYPES AND VARIABLES\09. Reversed chars\obj\Debug\09. Reversed chars.csprojResolveAssemblyReference.cache
-C:\Users\ViV\Desktop\SFU\DATA TYPES AND VARIABLES\09. Reversed chars\obj\Debug\_09.Reversed_chars.exe
-C:\Users\ViV\Desktop\SFU\DATA TYPES AND VARIABLES\09. Reversed chars\obj\Debug\_09.Reversed_chars.pdb

@@ -1,6 +1,0 @@
-C:\Users\ViV\Desktop\SFU\METHODS. DEBUGGING AND TROUBLESHOOTING CODE\03. English Name оf the Last Digit\bin\Debug\_03.English_Name_оf_the_Last_Digit.exe.config
-C:\Users\ViV\Desktop\SFU\METHODS. DEBUGGING AND TROUBLESHOOTING CODE\03. English Name оf the Last Digit\bin\Debug\_03.English_Name_оf_the_Last_Digit.exe
-C:\Users\ViV\Desktop\SFU\METHODS. DEBUGGING AND TROUBLESHOOTING CODE\03. English Name оf the Last Digit\bin\Debug\_03.English_Name_оf_the_Last_Digit.pdb
-C:\Users\ViV\Desktop\SFU\METHODS. DEBUGGING AND TROUBLESHOOTING CODE\03. English Name оf the Last Digit\obj\Debug\03. English Name оf the Last Digit.csprojResolveAssemblyReference.cache
-C:\Users\ViV\Desktop\SFU\METHODS. DEBUGGING AND TROUBLESHOOTING CODE\03. English Name оf the Last Digit\obj\Debug\_03.English_Name_оf_the_Last_Digit.exe
-C:\Users\ViV\Desktop\SFU\METHODS. DEBUGGING AND TROUBLESHOOTING CODE\03. English Name оf the Last Digit\obj\Debug\_03.English_Name_оf_the_Last_Digit.pdb

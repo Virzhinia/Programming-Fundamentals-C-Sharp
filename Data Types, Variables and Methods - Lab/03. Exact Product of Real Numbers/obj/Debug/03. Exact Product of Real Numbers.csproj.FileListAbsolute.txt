@@ -1,5 +1,0 @@
-c:\users\viv\documents\visual studio 2017\Projects\Data Types, Variables and Methods - Lab\03. Exact Product of Real Numbers\bin\Debug\_03.Exact_Product_of_Real_Numbers.exe.config
-c:\users\viv\documents\visual studio 2017\Projects\Data Types, Variables and Methods - Lab\03. Exact Product of Real Numbers\bin\Debug\_03.Exact_Product_of_Real_Numbers.exe
-c:\users\viv\documents\visual studio 2017\Projects\Data Types, Variables and Methods - Lab\03. Exact Product of Real Numbers\bin\Debug\_03.Exact_Product_of_Real_Numbers.pdb
-c:\users\viv\documents\visual studio 2017\Projects\Data Types, Variables and Methods - Lab\03. Exact Product of Real Numbers\obj\Debug\_03.Exact_Product_of_Real_Numbers.exe
-c:\users\viv\documents\visual studio 2017\Projects\Data Types, Variables and Methods - Lab\03. Exact Product of Real Numbers\obj\Debug\_03.Exact_Product_of_Real_Numbers.pdb

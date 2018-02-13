@@ -1,6 +1,0 @@
-c:\users\viv\documents\visual studio 2017\Projects\01. Trainers\02. Entertrain\bin\Debug\_02.Entertrain.exe.config
-c:\users\viv\documents\visual studio 2017\Projects\01. Trainers\02. Entertrain\bin\Debug\_02.Entertrain.exe
-c:\users\viv\documents\visual studio 2017\Projects\01. Trainers\02. Entertrain\bin\Debug\_02.Entertrain.pdb
-c:\users\viv\documents\visual studio 2017\Projects\01. Trainers\02. Entertrain\obj\Debug\02. Entertrain.csprojResolveAssemblyReference.cache
-c:\users\viv\documents\visual studio 2017\Projects\01. Trainers\02. Entertrain\obj\Debug\_02.Entertrain.exe
-c:\users\viv\documents\visual studio 2017\Projects\01. Trainers\02. Entertrain\obj\Debug\_02.Entertrain.pdb

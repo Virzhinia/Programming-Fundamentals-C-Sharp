@@ -1,5 +1,0 @@
-C:\Users\ViV\Desktop\SFU\DATA TYPES AND VARIABLES\16. Comparing floats\bin\Debug\_16.Comparing_floats.exe.config
-C:\Users\ViV\Desktop\SFU\DATA TYPES AND VARIABLES\16. Comparing floats\bin\Debug\_16.Comparing_floats.exe
-C:\Users\ViV\Desktop\SFU\DATA TYPES AND VARIABLES\16. Comparing floats\bin\Debug\_16.Comparing_floats.pdb
-C:\Users\ViV\Desktop\SFU\DATA TYPES AND VARIABLES\16. Comparing floats\obj\Debug\_16.Comparing_floats.exe
-C:\Users\ViV\Desktop\SFU\DATA TYPES AND VARIABLES\16. Comparing floats\obj\Debug\_16.Comparing_floats.pdb

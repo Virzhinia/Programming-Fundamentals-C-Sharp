@@ -1,6 +1,0 @@
-C:\Users\ViV\Desktop\SFU\METHODS. DEBUGGING AND TROUBLESHOOTING CODE\07. Prime Checker\obj\Debug\07. Primes in Given Range.csprojResolveAssemblyReference.cache
-C:\Users\ViV\Desktop\SFU\METHODS. DEBUGGING AND TROUBLESHOOTING CODE\07. Prime Checker\bin\Debug\_07.Prime_Checker.exe.config
-C:\Users\ViV\Desktop\SFU\METHODS. DEBUGGING AND TROUBLESHOOTING CODE\07. Prime Checker\bin\Debug\_07.Prime_Checker.exe
-C:\Users\ViV\Desktop\SFU\METHODS. DEBUGGING AND TROUBLESHOOTING CODE\07. Prime Checker\bin\Debug\_07.Prime_Checker.pdb
-C:\Users\ViV\Desktop\SFU\METHODS. DEBUGGING AND TROUBLESHOOTING CODE\07. Prime Checker\obj\Debug\_07.Prime_Checker.exe
-C:\Users\ViV\Desktop\SFU\METHODS. DEBUGGING AND TROUBLESHOOTING CODE\07. Prime Checker\obj\Debug\_07.Prime_Checker.pdb

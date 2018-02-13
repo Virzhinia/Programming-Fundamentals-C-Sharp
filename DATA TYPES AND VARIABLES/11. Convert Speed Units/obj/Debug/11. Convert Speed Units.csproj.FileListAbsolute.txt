@@ -1,6 +1,0 @@
-C:\Users\ViV\Desktop\SFU\DATA TYPES AND VARIABLES\11. Convert Speed Units\bin\Debug\_11.Convert_Speed_Units.exe.config
-C:\Users\ViV\Desktop\SFU\DATA TYPES AND VARIABLES\11. Convert Speed Units\bin\Debug\_11.Convert_Speed_Units.exe
-C:\Users\ViV\Desktop\SFU\DATA TYPES AND VARIABLES\11. Convert Speed Units\bin\Debug\_11.Convert_Speed_Units.pdb
-C:\Users\ViV\Desktop\SFU\DATA TYPES AND VARIABLES\11. Convert Speed Units\obj\Debug\11. Convert Speed Units.csprojResolveAssemblyReference.cache
-C:\Users\ViV\Desktop\SFU\DATA TYPES AND VARIABLES\11. Convert Speed Units\obj\Debug\_11.Convert_Speed_Units.exe
-C:\Users\ViV\Desktop\SFU\DATA TYPES AND VARIABLES\11. Convert Speed Units\obj\Debug\_11.Convert_Speed_Units.pdb

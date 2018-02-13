@@ -1,6 +1,0 @@
-c:\users\viv\documents\visual studio 2017\Projects\ConsoleApp1\0 1. Anonymous Downsite\bin\Debug\_0_1.Anonymous_Downsite.exe.config
-c:\users\viv\documents\visual studio 2017\Projects\ConsoleApp1\0 1. Anonymous Downsite\bin\Debug\_0_1.Anonymous_Downsite.exe
-c:\users\viv\documents\visual studio 2017\Projects\ConsoleApp1\0 1. Anonymous Downsite\bin\Debug\_0_1.Anonymous_Downsite.pdb
-c:\users\viv\documents\visual studio 2017\Projects\ConsoleApp1\0 1. Anonymous Downsite\obj\Debug\_0_1.Anonymous_Downsite.exe
-c:\users\viv\documents\visual studio 2017\Projects\ConsoleApp1\0 1. Anonymous Downsite\obj\Debug\_0_1.Anonymous_Downsite.pdb
-c:\users\viv\documents\visual studio 2017\Projects\ConsoleApp1\0 1. Anonymous Downsite\obj\Debug\0 1. Anonymous Downsite.csprojResolveAssemblyReference.cache

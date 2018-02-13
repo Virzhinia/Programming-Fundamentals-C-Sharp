@@ -1,5 +1,0 @@
-c:\users\viv\documents\visual studio 2017\Projects\PreExtended\05. Temperature Conversion\bin\Debug\_05.Temperature_Conversion.exe.config
-c:\users\viv\documents\visual studio 2017\Projects\PreExtended\05. Temperature Conversion\bin\Debug\_05.Temperature_Conversion.exe
-c:\users\viv\documents\visual studio 2017\Projects\PreExtended\05. Temperature Conversion\bin\Debug\_05.Temperature_Conversion.pdb
-c:\users\viv\documents\visual studio 2017\Projects\PreExtended\05. Temperature Conversion\obj\Debug\_05.Temperature_Conversion.exe
-c:\users\viv\documents\visual studio 2017\Projects\PreExtended\05. Temperature Conversion\obj\Debug\_05.Temperature_Conversion.pdb

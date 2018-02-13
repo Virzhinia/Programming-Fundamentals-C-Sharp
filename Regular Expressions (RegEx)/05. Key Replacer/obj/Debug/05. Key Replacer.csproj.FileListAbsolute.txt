@@ -1,6 +1,0 @@
-C:\Users\ViV\Desktop\SFU\Regular Expressions (RegEx)\05. Key Replacer\bin\Debug\_05.Key_Replacer.exe.config
-C:\Users\ViV\Desktop\SFU\Regular Expressions (RegEx)\05. Key Replacer\bin\Debug\_05.Key_Replacer.exe
-C:\Users\ViV\Desktop\SFU\Regular Expressions (RegEx)\05. Key Replacer\bin\Debug\_05.Key_Replacer.pdb
-C:\Users\ViV\Desktop\SFU\Regular Expressions (RegEx)\05. Key Replacer\obj\Debug\05. Key Replacer.csprojResolveAssemblyReference.cache
-C:\Users\ViV\Desktop\SFU\Regular Expressions (RegEx)\05. Key Replacer\obj\Debug\_05.Key_Replacer.exe
-C:\Users\ViV\Desktop\SFU\Regular Expressions (RegEx)\05. Key Replacer\obj\Debug\_05.Key_Replacer.pdb

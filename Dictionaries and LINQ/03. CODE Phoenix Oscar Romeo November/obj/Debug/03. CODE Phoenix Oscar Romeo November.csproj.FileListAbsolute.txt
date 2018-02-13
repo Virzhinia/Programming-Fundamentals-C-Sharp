@@ -1,6 +1,0 @@
-C:\Users\ViV\documents\visual studio 2017\Projects\Dictionaries and LINQ\03. CODE Phoenix Oscar Romeo November\bin\Debug\_03.CODE_Phoenix_Oscar_Romeo_November.exe.config
-C:\Users\ViV\documents\visual studio 2017\Projects\Dictionaries and LINQ\03. CODE Phoenix Oscar Romeo November\bin\Debug\_03.CODE_Phoenix_Oscar_Romeo_November.exe
-C:\Users\ViV\documents\visual studio 2017\Projects\Dictionaries and LINQ\03. CODE Phoenix Oscar Romeo November\bin\Debug\_03.CODE_Phoenix_Oscar_Romeo_November.pdb
-C:\Users\ViV\documents\visual studio 2017\Projects\Dictionaries and LINQ\03. CODE Phoenix Oscar Romeo November\obj\Debug\03. CODE Phoenix Oscar Romeo November.csprojResolveAssemblyReference.cache
-C:\Users\ViV\documents\visual studio 2017\Projects\Dictionaries and LINQ\03. CODE Phoenix Oscar Romeo November\obj\Debug\_03.CODE_Phoenix_Oscar_Romeo_November.exe
-C:\Users\ViV\documents\visual studio 2017\Projects\Dictionaries and LINQ\03. CODE Phoenix Oscar Romeo November\obj\Debug\_03.CODE_Phoenix_Oscar_Romeo_November.pdb

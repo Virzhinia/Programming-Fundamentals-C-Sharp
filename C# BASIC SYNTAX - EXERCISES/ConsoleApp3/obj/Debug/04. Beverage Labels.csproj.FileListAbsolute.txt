@@ -1,6 +1,0 @@
-C:\Users\ViV\Desktop\SFU\ConsoleApp6\ConsoleApp3\bin\Debug\ConsoleApp3.exe.config
-C:\Users\ViV\Desktop\SFU\ConsoleApp6\ConsoleApp3\bin\Debug\ConsoleApp3.exe
-C:\Users\ViV\Desktop\SFU\ConsoleApp6\ConsoleApp3\bin\Debug\ConsoleApp3.pdb
-C:\Users\ViV\Desktop\SFU\ConsoleApp6\ConsoleApp3\obj\Debug\04. Beverage Labels.csprojResolveAssemblyReference.cache
-C:\Users\ViV\Desktop\SFU\ConsoleApp6\ConsoleApp3\obj\Debug\ConsoleApp3.exe
-C:\Users\ViV\Desktop\SFU\ConsoleApp6\ConsoleApp3\obj\Debug\ConsoleApp3.pdb

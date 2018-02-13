@@ -1,6 +1,0 @@
-c:\users\viv\documents\visual studio 2017\Projects\Dictionaries and LINQ\02. Average Student Grades\bin\Debug\_02.Average_Student_Grades.exe.config
-c:\users\viv\documents\visual studio 2017\Projects\Dictionaries and LINQ\02. Average Student Grades\bin\Debug\_02.Average_Student_Grades.exe
-c:\users\viv\documents\visual studio 2017\Projects\Dictionaries and LINQ\02. Average Student Grades\bin\Debug\_02.Average_Student_Grades.pdb
-c:\users\viv\documents\visual studio 2017\Projects\Dictionaries and LINQ\02. Average Student Grades\obj\Debug\02. Average Student Grades.csprojResolveAssemblyReference.cache
-c:\users\viv\documents\visual studio 2017\Projects\Dictionaries and LINQ\02. Average Student Grades\obj\Debug\_02.Average_Student_Grades.exe
-c:\users\viv\documents\visual studio 2017\Projects\Dictionaries and LINQ\02. Average Student Grades\obj\Debug\_02.Average_Student_Grades.pdb

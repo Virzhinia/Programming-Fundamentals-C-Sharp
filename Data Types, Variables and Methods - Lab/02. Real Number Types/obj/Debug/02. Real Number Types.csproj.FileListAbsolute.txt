@@ -1,5 +1,0 @@
-c:\users\viv\documents\visual studio 2017\Projects\Data Types, Variables and Methods - Lab\02. Real Number Types\bin\Debug\_02.Real_Number_Types.exe.config
-c:\users\viv\documents\visual studio 2017\Projects\Data Types, Variables and Methods - Lab\02. Real Number Types\bin\Debug\_02.Real_Number_Types.exe
-c:\users\viv\documents\visual studio 2017\Projects\Data Types, Variables and Methods - Lab\02. Real Number Types\bin\Debug\_02.Real_Number_Types.pdb
-c:\users\viv\documents\visual studio 2017\Projects\Data Types, Variables and Methods - Lab\02. Real Number Types\obj\Debug\_02.Real_Number_Types.exe
-c:\users\viv\documents\visual studio 2017\Projects\Data Types, Variables and Methods - Lab\02. Real Number Types\obj\Debug\_02.Real_Number_Types.pdb

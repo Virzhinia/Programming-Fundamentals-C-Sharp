@@ -1,6 +1,0 @@
-c:\users\viv\documents\visual studio 2017\Projects\Exam 10.12\Exam 10.12\obj\Debug\01. Raindrops.csprojResolveAssemblyReference.cache
-c:\users\viv\documents\visual studio 2017\Projects\Exam 10.12\Exam 10.12\obj\Debug\Exam 10.12.exe
-c:\users\viv\documents\visual studio 2017\Projects\Exam 10.12\Exam 10.12\obj\Debug\Exam 10.12.pdb
-c:\users\viv\documents\visual studio 2017\Projects\Exam 10.12\Exam 10.12\bin\Debug\Exam 10.12.exe.config
-c:\users\viv\documents\visual studio 2017\Projects\Exam 10.12\Exam 10.12\bin\Debug\Exam 10.12.exe
-c:\users\viv\documents\visual studio 2017\Projects\Exam 10.12\Exam 10.12\bin\Debug\Exam 10.12.pdb

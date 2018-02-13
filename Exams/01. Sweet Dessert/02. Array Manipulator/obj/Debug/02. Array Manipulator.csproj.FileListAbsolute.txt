@@ -1,6 +1,0 @@
-c:\users\viv\documents\visual studio 2017\Projects\01. Sweet Dessert\02. Array Manipulator\bin\Debug\_02.Array_Manipulator.exe.config
-c:\users\viv\documents\visual studio 2017\Projects\01. Sweet Dessert\02. Array Manipulator\bin\Debug\_02.Array_Manipulator.exe
-c:\users\viv\documents\visual studio 2017\Projects\01. Sweet Dessert\02. Array Manipulator\bin\Debug\_02.Array_Manipulator.pdb
-c:\users\viv\documents\visual studio 2017\Projects\01. Sweet Dessert\02. Array Manipulator\obj\Debug\02. Array Manipulator.csprojResolveAssemblyReference.cache
-c:\users\viv\documents\visual studio 2017\Projects\01. Sweet Dessert\02. Array Manipulator\obj\Debug\_02.Array_Manipulator.exe
-c:\users\viv\documents\visual studio 2017\Projects\01. Sweet Dessert\02. Array Manipulator\obj\Debug\_02.Array_Manipulator.pdb

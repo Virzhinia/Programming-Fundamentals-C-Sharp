@@ -1,6 +1,0 @@
-C:\Users\ViV\Desktop\SFU\ARRAYS\03. Last K Numbers Sums\bin\Debug\_03.Last_K_Numbers_Sums.exe.config
-C:\Users\ViV\Desktop\SFU\ARRAYS\03. Last K Numbers Sums\bin\Debug\_03.Last_K_Numbers_Sums.exe
-C:\Users\ViV\Desktop\SFU\ARRAYS\03. Last K Numbers Sums\bin\Debug\_03.Last_K_Numbers_Sums.pdb
-C:\Users\ViV\Desktop\SFU\ARRAYS\03. Last K Numbers Sums\obj\Debug\03. Last K Numbers Sums.csprojResolveAssemblyReference.cache
-C:\Users\ViV\Desktop\SFU\ARRAYS\03. Last K Numbers Sums\obj\Debug\_03.Last_K_Numbers_Sums.exe
-C:\Users\ViV\Desktop\SFU\ARRAYS\03. Last K Numbers Sums\obj\Debug\_03.Last_K_Numbers_Sums.pdb

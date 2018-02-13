@@ -1,6 +1,0 @@
-c:\users\viv\documents\visual studio 2017\Projects\Strings and Regex\02. Count Substring Occurrences\bin\Debug\_02.Count_Substring_Occurrences.exe.config
-c:\users\viv\documents\visual studio 2017\Projects\Strings and Regex\02. Count Substring Occurrences\bin\Debug\_02.Count_Substring_Occurrences.exe
-c:\users\viv\documents\visual studio 2017\Projects\Strings and Regex\02. Count Substring Occurrences\bin\Debug\_02.Count_Substring_Occurrences.pdb
-c:\users\viv\documents\visual studio 2017\Projects\Strings and Regex\02. Count Substring Occurrences\obj\Debug\02. Count Substring Occurrences.csprojResolveAssemblyReference.cache
-c:\users\viv\documents\visual studio 2017\Projects\Strings and Regex\02. Count Substring Occurrences\obj\Debug\_02.Count_Substring_Occurrences.exe
-c:\users\viv\documents\visual studio 2017\Projects\Strings and Regex\02. Count Substring Occurrences\obj\Debug\_02.Count_Substring_Occurrences.pdb

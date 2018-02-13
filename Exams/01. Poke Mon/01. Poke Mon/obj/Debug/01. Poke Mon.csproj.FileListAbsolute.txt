@@ -1,6 +1,0 @@
-C:\Users\ViV\Desktop\SFU\01. Poke Mon\01. Poke Mon\bin\Debug\_01.Poke_Mon.exe.config
-C:\Users\ViV\Desktop\SFU\01. Poke Mon\01. Poke Mon\bin\Debug\_01.Poke_Mon.exe
-C:\Users\ViV\Desktop\SFU\01. Poke Mon\01. Poke Mon\bin\Debug\_01.Poke_Mon.pdb
-C:\Users\ViV\Desktop\SFU\01. Poke Mon\01. Poke Mon\obj\Debug\01. Poke Mon.csprojResolveAssemblyReference.cache
-C:\Users\ViV\Desktop\SFU\01. Poke Mon\01. Poke Mon\obj\Debug\_01.Poke_Mon.exe
-C:\Users\ViV\Desktop\SFU\01. Poke Mon\01. Poke Mon\obj\Debug\_01.Poke_Mon.pdb

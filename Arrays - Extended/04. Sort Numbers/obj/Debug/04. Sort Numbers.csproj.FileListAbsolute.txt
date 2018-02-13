@@ -1,6 +1,0 @@
-C:\Users\ViV\documents\visual studio 2017\Projects\Arrays - Extended\04. Sort Numbers\bin\Debug\_04.Sort_Numbers.exe.config
-C:\Users\ViV\documents\visual studio 2017\Projects\Arrays - Extended\04. Sort Numbers\bin\Debug\_04.Sort_Numbers.exe
-C:\Users\ViV\documents\visual studio 2017\Projects\Arrays - Extended\04. Sort Numbers\bin\Debug\_04.Sort_Numbers.pdb
-C:\Users\ViV\documents\visual studio 2017\Projects\Arrays - Extended\04. Sort Numbers\obj\Debug\04. Sort Numbers.csprojResolveAssemblyReference.cache
-C:\Users\ViV\documents\visual studio 2017\Projects\Arrays - Extended\04. Sort Numbers\obj\Debug\_04.Sort_Numbers.exe
-C:\Users\ViV\documents\visual studio 2017\Projects\Arrays - Extended\04. Sort Numbers\obj\Debug\_04.Sort_Numbers.pdb

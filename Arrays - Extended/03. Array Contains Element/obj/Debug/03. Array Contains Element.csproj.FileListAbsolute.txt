@@ -1,6 +1,0 @@
-C:\Users\ViV\documents\visual studio 2017\Projects\Arrays - Extended\03. Array Contains Element\bin\Debug\_03.Array_Contains_Element.exe.config
-C:\Users\ViV\documents\visual studio 2017\Projects\Arrays - Extended\03. Array Contains Element\bin\Debug\_03.Array_Contains_Element.exe
-C:\Users\ViV\documents\visual studio 2017\Projects\Arrays - Extended\03. Array Contains Element\bin\Debug\_03.Array_Contains_Element.pdb
-C:\Users\ViV\documents\visual studio 2017\Projects\Arrays - Extended\03. Array Contains Element\obj\Debug\03. Array Contains Element.csprojResolveAssemblyReference.cache
-C:\Users\ViV\documents\visual studio 2017\Projects\Arrays - Extended\03. Array Contains Element\obj\Debug\_03.Array_Contains_Element.exe
-C:\Users\ViV\documents\visual studio 2017\Projects\Arrays - Extended\03. Array Contains Element\obj\Debug\_03.Array_Contains_Element.pdb

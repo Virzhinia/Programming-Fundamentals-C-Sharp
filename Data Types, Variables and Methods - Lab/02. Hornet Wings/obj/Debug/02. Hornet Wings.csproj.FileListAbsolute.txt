@@ -1,6 +1,0 @@
-c:\users\viv\documents\visual studio 2017\Projects\Data Types, Variables and Methods - Lab\02. Hornet Wings\bin\Debug\_02.Hornet_Wings.exe.config
-c:\users\viv\documents\visual studio 2017\Projects\Data Types, Variables and Methods - Lab\02. Hornet Wings\bin\Debug\_02.Hornet_Wings.exe
-c:\users\viv\documents\visual studio 2017\Projects\Data Types, Variables and Methods - Lab\02. Hornet Wings\bin\Debug\_02.Hornet_Wings.pdb
-c:\users\viv\documents\visual studio 2017\Projects\Data Types, Variables and Methods - Lab\02. Hornet Wings\obj\Debug\02. Hornet Wings.csprojResolveAssemblyReference.cache
-c:\users\viv\documents\visual studio 2017\Projects\Data Types, Variables and Methods - Lab\02. Hornet Wings\obj\Debug\_02.Hornet_Wings.exe
-c:\users\viv\documents\visual studio 2017\Projects\Data Types, Variables and Methods - Lab\02. Hornet Wings\obj\Debug\_02.Hornet_Wings.pdb

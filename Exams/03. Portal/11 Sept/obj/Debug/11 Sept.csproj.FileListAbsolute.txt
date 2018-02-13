@@ -1,6 +1,0 @@
-c:\users\viv\documents\visual studio 2017\Projects\03. Portal\11 Sept\bin\Debug\11 Sept.exe.config
-c:\users\viv\documents\visual studio 2017\Projects\03. Portal\11 Sept\bin\Debug\11 Sept.exe
-c:\users\viv\documents\visual studio 2017\Projects\03. Portal\11 Sept\bin\Debug\11 Sept.pdb
-c:\users\viv\documents\visual studio 2017\Projects\03. Portal\11 Sept\obj\Debug\11 Sept.csprojResolveAssemblyReference.cache
-c:\users\viv\documents\visual studio 2017\Projects\03. Portal\11 Sept\obj\Debug\11 Sept.exe
-c:\users\viv\documents\visual studio 2017\Projects\03. Portal\11 Sept\obj\Debug\11 Sept.pdb

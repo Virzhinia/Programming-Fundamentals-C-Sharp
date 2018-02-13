@@ -1,6 +1,0 @@
-C:\Users\ViV\Documents\Visual Studio 2017\Projects\Dictionaries and LINQ\02. Hornet Armada\bin\Debug\_02.Hornet_Armada.exe.config
-C:\Users\ViV\Documents\Visual Studio 2017\Projects\Dictionaries and LINQ\02. Hornet Armada\bin\Debug\_02.Hornet_Armada.exe
-C:\Users\ViV\Documents\Visual Studio 2017\Projects\Dictionaries and LINQ\02. Hornet Armada\bin\Debug\_02.Hornet_Armada.pdb
-C:\Users\ViV\Documents\Visual Studio 2017\Projects\Dictionaries and LINQ\02. Hornet Armada\obj\Debug\02. Hornet Armada.csprojResolveAssemblyReference.cache
-C:\Users\ViV\Documents\Visual Studio 2017\Projects\Dictionaries and LINQ\02. Hornet Armada\obj\Debug\_02.Hornet_Armada.exe
-C:\Users\ViV\Documents\Visual Studio 2017\Projects\Dictionaries and LINQ\02. Hornet Armada\obj\Debug\_02.Hornet_Armada.pdb

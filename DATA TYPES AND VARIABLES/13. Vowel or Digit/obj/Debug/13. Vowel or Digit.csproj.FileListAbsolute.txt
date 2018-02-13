@@ -1,6 +1,0 @@
-C:\Users\ViV\Desktop\SFU\DATA TYPES AND VARIABLES\13. Vowel or Digit\bin\Debug\_13.Vowel_or_Digit.exe.config
-C:\Users\ViV\Desktop\SFU\DATA TYPES AND VARIABLES\13. Vowel or Digit\bin\Debug\_13.Vowel_or_Digit.exe
-C:\Users\ViV\Desktop\SFU\DATA TYPES AND VARIABLES\13. Vowel or Digit\bin\Debug\_13.Vowel_or_Digit.pdb
-C:\Users\ViV\Desktop\SFU\DATA TYPES AND VARIABLES\13. Vowel or Digit\obj\Debug\13. Vowel or Digit.csprojResolveAssemblyReference.cache
-C:\Users\ViV\Desktop\SFU\DATA TYPES AND VARIABLES\13. Vowel or Digit\obj\Debug\_13.Vowel_or_Digit.exe
-C:\Users\ViV\Desktop\SFU\DATA TYPES AND VARIABLES\13. Vowel or Digit\obj\Debug\_13.Vowel_or_Digit.pdb

@@ -1,6 +1,0 @@
-c:\users\viv\documents\visual studio 2017\Projects\Data Types, Variables and Methods - Lab\01. Time Since Birthday\bin\Debug\_01.Time_Since_Birthday.exe.config
-c:\users\viv\documents\visual studio 2017\Projects\Data Types, Variables and Methods - Lab\01. Time Since Birthday\bin\Debug\_01.Time_Since_Birthday.exe
-c:\users\viv\documents\visual studio 2017\Projects\Data Types, Variables and Methods - Lab\01. Time Since Birthday\bin\Debug\_01.Time_Since_Birthday.pdb
-c:\users\viv\documents\visual studio 2017\Projects\Data Types, Variables and Methods - Lab\01. Time Since Birthday\obj\Debug\01. Time Since Birthday.csprojResolveAssemblyReference.cache
-c:\users\viv\documents\visual studio 2017\Projects\Data Types, Variables and Methods - Lab\01. Time Since Birthday\obj\Debug\_01.Time_Since_Birthday.exe
-c:\users\viv\documents\visual studio 2017\Projects\Data Types, Variables and Methods - Lab\01. Time Since Birthday\obj\Debug\_01.Time_Since_Birthday.pdb

@@ -1,6 +1,0 @@
-C:\Users\ViV\Desktop\SFU\METHODS. DEBUGGING AND TROUBLESHOOTING CODE\13. Factorial\bin\Debug\_13.Factorial.exe.config
-C:\Users\ViV\Desktop\SFU\METHODS. DEBUGGING AND TROUBLESHOOTING CODE\13. Factorial\bin\Debug\_13.Factorial.exe
-C:\Users\ViV\Desktop\SFU\METHODS. DEBUGGING AND TROUBLESHOOTING CODE\13. Factorial\bin\Debug\_13.Factorial.pdb
-C:\Users\ViV\Desktop\SFU\METHODS. DEBUGGING AND TROUBLESHOOTING CODE\13. Factorial\obj\Debug\13. Factorial.csprojResolveAssemblyReference.cache
-C:\Users\ViV\Desktop\SFU\METHODS. DEBUGGING AND TROUBLESHOOTING CODE\13. Factorial\obj\Debug\_13.Factorial.exe
-C:\Users\ViV\Desktop\SFU\METHODS. DEBUGGING AND TROUBLESHOOTING CODE\13. Factorial\obj\Debug\_13.Factorial.pdb

@@ -1,6 +1,0 @@
-C:\Users\ViV\Desktop\SFU\METHODS. DEBUGGING AND TROUBLESHOOTING CODE\06. Prime Checker\bin\Debug\_06.Prime_Checker.exe.config
-C:\Users\ViV\Desktop\SFU\METHODS. DEBUGGING AND TROUBLESHOOTING CODE\06. Prime Checker\bin\Debug\_06.Prime_Checker.exe
-C:\Users\ViV\Desktop\SFU\METHODS. DEBUGGING AND TROUBLESHOOTING CODE\06. Prime Checker\bin\Debug\_06.Prime_Checker.pdb
-C:\Users\ViV\Desktop\SFU\METHODS. DEBUGGING AND TROUBLESHOOTING CODE\06. Prime Checker\obj\Debug\06. Prime Checker.csprojResolveAssemblyReference.cache
-C:\Users\ViV\Desktop\SFU\METHODS. DEBUGGING AND TROUBLESHOOTING CODE\06. Prime Checker\obj\Debug\_06.Prime_Checker.exe
-C:\Users\ViV\Desktop\SFU\METHODS. DEBUGGING AND TROUBLESHOOTING CODE\06. Prime Checker\obj\Debug\_06.Prime_Checker.pdb

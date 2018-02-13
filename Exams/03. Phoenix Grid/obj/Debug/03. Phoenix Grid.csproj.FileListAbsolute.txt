@@ -1,6 +1,0 @@
-c:\Users\ViV\documents\visual studio 2017\Projects\Exams\03. Phoenix Grid\bin\Debug\_03.Phoenix_Grid.exe.config
-c:\Users\ViV\documents\visual studio 2017\Projects\Exams\03. Phoenix Grid\bin\Debug\_03.Phoenix_Grid.exe
-c:\Users\ViV\documents\visual studio 2017\Projects\Exams\03. Phoenix Grid\bin\Debug\_03.Phoenix_Grid.pdb
-c:\Users\ViV\documents\visual studio 2017\Projects\Exams\03. Phoenix Grid\obj\Debug\03. Phoenix Grid.csprojResolveAssemblyReference.cache
-c:\Users\ViV\documents\visual studio 2017\Projects\Exams\03. Phoenix Grid\obj\Debug\_03.Phoenix_Grid.exe
-c:\Users\ViV\documents\visual studio 2017\Projects\Exams\03. Phoenix Grid\obj\Debug\_03.Phoenix_Grid.pdb

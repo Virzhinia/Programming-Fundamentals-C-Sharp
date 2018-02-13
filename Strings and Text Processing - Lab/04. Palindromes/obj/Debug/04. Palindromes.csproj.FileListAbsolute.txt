@@ -1,6 +1,0 @@
-C:\Users\ViV\Desktop\SFU\Strings and Text Processing - Lab\04. Palindromes\bin\Debug\_04.Palindromes.exe.config
-C:\Users\ViV\Desktop\SFU\Strings and Text Processing - Lab\04. Palindromes\bin\Debug\_04.Palindromes.exe
-C:\Users\ViV\Desktop\SFU\Strings and Text Processing - Lab\04. Palindromes\bin\Debug\_04.Palindromes.pdb
-C:\Users\ViV\Desktop\SFU\Strings and Text Processing - Lab\04. Palindromes\obj\Debug\04. Palindromes.csprojResolveAssemblyReference.cache
-C:\Users\ViV\Desktop\SFU\Strings and Text Processing - Lab\04. Palindromes\obj\Debug\_04.Palindromes.exe
-C:\Users\ViV\Desktop\SFU\Strings and Text Processing - Lab\04. Palindromes\obj\Debug\_04.Palindromes.pdb

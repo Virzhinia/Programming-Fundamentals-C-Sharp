@@ -1,6 +1,0 @@
-c:\users\viv\documents\visual studio 2017\Projects\03. Portal\02. Icarus\bin\Debug\_02.Icarus.exe.config
-c:\users\viv\documents\visual studio 2017\Projects\03. Portal\02. Icarus\bin\Debug\_02.Icarus.exe
-c:\users\viv\documents\visual studio 2017\Projects\03. Portal\02. Icarus\bin\Debug\_02.Icarus.pdb
-c:\users\viv\documents\visual studio 2017\Projects\03. Portal\02. Icarus\obj\Debug\_02.Icarus.exe
-c:\users\viv\documents\visual studio 2017\Projects\03. Portal\02. Icarus\obj\Debug\_02.Icarus.pdb
-c:\users\viv\documents\visual studio 2017\Projects\03. Portal\02. Icarus\obj\Debug\02. Icarus.csprojResolveAssemblyReference.cache

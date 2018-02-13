@@ -1,5 +1,0 @@
-C:\Users\ViV\Desktop\SFU\ARRAYS\05. Compare Char Arrays\bin\Debug\_05.Compare_Char_Arrays.exe.config
-C:\Users\ViV\Desktop\SFU\ARRAYS\05. Compare Char Arrays\bin\Debug\_05.Compare_Char_Arrays.exe
-C:\Users\ViV\Desktop\SFU\ARRAYS\05. Compare Char Arrays\bin\Debug\_05.Compare_Char_Arrays.pdb
-C:\Users\ViV\Desktop\SFU\ARRAYS\05. Compare Char Arrays\obj\Debug\_05.Compare_Char_Arrays.exe
-C:\Users\ViV\Desktop\SFU\ARRAYS\05. Compare Char Arrays\obj\Debug\_05.Compare_Char_Arrays.pdb

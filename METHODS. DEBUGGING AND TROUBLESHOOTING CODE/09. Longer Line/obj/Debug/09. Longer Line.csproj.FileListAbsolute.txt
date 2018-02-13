@@ -1,6 +1,0 @@
-C:\Users\ViV\Desktop\SFU\METHODS. DEBUGGING AND TROUBLESHOOTING CODE\09. Longer Line\bin\Debug\_09.Longer_Line.exe.config
-C:\Users\ViV\Desktop\SFU\METHODS. DEBUGGING AND TROUBLESHOOTING CODE\09. Longer Line\bin\Debug\_09.Longer_Line.exe
-C:\Users\ViV\Desktop\SFU\METHODS. DEBUGGING AND TROUBLESHOOTING CODE\09. Longer Line\bin\Debug\_09.Longer_Line.pdb
-C:\Users\ViV\Desktop\SFU\METHODS. DEBUGGING AND TROUBLESHOOTING CODE\09. Longer Line\obj\Debug\09. Longer Line.csprojResolveAssemblyReference.cache
-C:\Users\ViV\Desktop\SFU\METHODS. DEBUGGING AND TROUBLESHOOTING CODE\09. Longer Line\obj\Debug\_09.Longer_Line.exe
-C:\Users\ViV\Desktop\SFU\METHODS. DEBUGGING AND TROUBLESHOOTING CODE\09. Longer Line\obj\Debug\_09.Longer_Line.pdb

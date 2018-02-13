@@ -1,5 +1,0 @@
-C:\Users\ViV\Desktop\SFU\DATA TYPES AND VARIABLES\02. Practice Floating Points\bin\Debug\_02.Practice_Floating_Points.exe.config
-C:\Users\ViV\Desktop\SFU\DATA TYPES AND VARIABLES\02. Practice Floating Points\bin\Debug\_02.Practice_Floating_Points.exe
-C:\Users\ViV\Desktop\SFU\DATA TYPES AND VARIABLES\02. Practice Floating Points\bin\Debug\_02.Practice_Floating_Points.pdb
-C:\Users\ViV\Desktop\SFU\DATA TYPES AND VARIABLES\02. Practice Floating Points\obj\Debug\_02.Practice_Floating_Points.exe
-C:\Users\ViV\Desktop\SFU\DATA TYPES AND VARIABLES\02. Practice Floating Points\obj\Debug\_02.Practice_Floating_Points.pdb

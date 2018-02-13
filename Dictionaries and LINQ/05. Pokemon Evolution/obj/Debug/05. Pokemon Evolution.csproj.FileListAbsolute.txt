@@ -1,6 +1,0 @@
-C:\Users\ViV\documents\visual studio 2017\Projects\Dictionaries and LINQ\05. Pokemon Evolution\bin\Debug\_05.Pokemon_Evolution.exe.config
-C:\Users\ViV\documents\visual studio 2017\Projects\Dictionaries and LINQ\05. Pokemon Evolution\bin\Debug\_05.Pokemon_Evolution.exe
-C:\Users\ViV\documents\visual studio 2017\Projects\Dictionaries and LINQ\05. Pokemon Evolution\bin\Debug\_05.Pokemon_Evolution.pdb
-C:\Users\ViV\documents\visual studio 2017\Projects\Dictionaries and LINQ\05. Pokemon Evolution\obj\Debug\05. Pokemon Evolution.csprojResolveAssemblyReference.cache
-C:\Users\ViV\documents\visual studio 2017\Projects\Dictionaries and LINQ\05. Pokemon Evolution\obj\Debug\_05.Pokemon_Evolution.exe
-C:\Users\ViV\documents\visual studio 2017\Projects\Dictionaries and LINQ\05. Pokemon Evolution\obj\Debug\_05.Pokemon_Evolution.pdb
